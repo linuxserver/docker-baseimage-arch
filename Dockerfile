@@ -56,7 +56,8 @@ RUN \
     shadow \
     tar \
     tzdata \
-    util-linux && \
+    util-linux \
+    which && \
   cp -a /etc/pacman.conf /root-out/etc/pacman.conf && \
   cp -a /etc/pacman.d/mirrorlist /root-out/etc/pacman.d/mirrorlist && \
   cp -a /tmp/patch/init-stage2.patch /root-out/ && \
