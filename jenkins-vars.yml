@@ -1,0 +1,26 @@
+---
+
+# jenkins variables
+project_name: docker-baseimage-arch
+external_type: os
+release_type: stable
+release_tag: latest
+ls_branch: master
+repo_vars:
+  - BUILD_VERSION_ARG = 'OS'
+  - LS_USER = 'linuxserver'
+  - LS_REPO = 'docker-baseimage-arch'
+  - CONTAINER_NAME = 'baseimage-arch'
+  - DOCKERHUB_IMAGE = 'lsiobase/arch'
+  - DEV_DOCKERHUB_IMAGE = 'lsiodev/arch'
+  - PR_DOCKERHUB_IMAGE = 'lspipepr/arch'
+  - DIST_IMAGE = 'arch'
+  - MULTIARCH='true'
+  - CI='true'
+  - CI_WEB='false'
+  - CI_PORT='80'
+  - CI_SSL='true'
+  - CI_DELAY='30'
+  - CI_DOCKERENV='TZ=US/Pacific'
+  - CI_AUTH='user:password'
+  - CI_WEBPATH=''
