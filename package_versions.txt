@@ -37,8 +37,8 @@ libgcrypt 1.9.3-1
 libgpg-error 1.42-1
 libidn2 2.3.1-1
 libksba 1.6.0-1
-libldap 2.4.59-1
-libnghttp2 1.43.0-1
+libldap 2.4.59-2
+libnghttp2 1.44.0-1
 libp11-kit 0.24.0-1
 libpsl 0.21.1-1
 libsasl 2.1.27-3
@@ -69,11 +69,11 @@ readline 8.1.001-1
 sed 4.8-1
 shadow 4.8.1-4
 sqlite 3.36.0-1
-systemd-libs 249.1-1
+systemd-libs 249.2-1
 tar 1.34-1
 tzdata 2021a-1
-util-linux 2.37-3
-util-linux-libs 2.37-3
+util-linux 2.37.1-1
+util-linux-libs 2.37.1-1
 which 2.21-5
 xz 5.2.5-1
 zlib 1:1.2.11-4
