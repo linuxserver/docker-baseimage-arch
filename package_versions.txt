@@ -1,7 +1,7 @@
 acl 2.3.1-1
-archlinux-keyring 20210616-1
+archlinux-keyring 20210802-1
 attr 2.5.1-1
-audit 3.0.2-1
+audit 3.0.3-1
 bash 5.1.008-1
 bzip2 1.0.8-4
 ca-certificates 20210603-1
@@ -9,7 +9,7 @@ ca-certificates-mozilla 3.68-1
 ca-certificates-utils 20210603-1
 coreutils 8.32-1
 curl 7.78.0-1
-e2fsprogs 1.46.2-1
+e2fsprogs 1.46.3-1
 expat 2.4.1-1
 file 5.40-5
 filesystem 2021.05.31-1
@@ -31,11 +31,11 @@ less 1:590-1
 libarchive 3.5.1-1
 libassuan 2.5.5-1
 libcap 2.51-1
-libcap-ng 0.8.2-1
+libcap-ng 0.8.2-3
 libffi 3.3-4
 libgcrypt 1.9.3-1
 libgpg-error 1.42-1
-libidn2 2.3.1-1
+libidn2 2.3.2-1
 libksba 1.6.0-1
 libldap 2.4.59-2
 libnghttp2 1.44.0-1
