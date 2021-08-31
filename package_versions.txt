@@ -28,12 +28,12 @@ iana-etc 20210728-1
 keyutils 1.6.3-1
 krb5 1.19.1-1
 less 1:590-1
-libarchive 3.5.1-1
+libarchive 3.5.2-1
 libassuan 2.5.5-1
-libcap 2.51-1
+libcap 2.53-1
 libcap-ng 0.8.2-3
 libffi 3.3-4
-libgcrypt 1.9.3-1
+libgcrypt 1.9.4-1
 libgpg-error 1.42-1
 libidn2 2.3.2-1
 libksba 1.6.0-1
@@ -55,7 +55,7 @@ mpfr 4.1.0.p13-1
 ncurses 6.2-2
 nettle 3.7.3-1
 npth 1.6-3
-openssl 1.1.1.k-1
+openssl 1.1.1.l-1
 p11-kit 0.24.0-1
 pacman 6.0.0-5
 pacman-mirrorlist 20210822-1
@@ -69,7 +69,7 @@ readline 8.1.001-1
 sed 4.8-1
 shadow 4.8.1-4
 sqlite 3.36.0-1
-systemd-libs 249.3-1
+systemd-libs 249.4-1
 tar 1.34-1
 tzdata 2021a-1
 util-linux 2.37.2-1
