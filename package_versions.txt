@@ -1,11 +1,11 @@
 acl 2.3.1-1
-archlinux-keyring 20210820-1
+archlinux-keyring 20210902-1
 attr 2.5.1-1
 audit 3.0.4-1
 bash 5.1.008-1
 bzip2 1.0.8-4
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.69-1
+ca-certificates-mozilla 3.69.1-1
 ca-certificates-utils 20210603-1
 coreutils 8.32-1
 curl 7.78.0-1
@@ -23,7 +23,7 @@ gnupg 2.2.29-1
 gnutls 3.7.2-2
 gpgme 1.16.0-1
 grep 3.6-1
-gzip 1.10-3
+gzip 1.11-1
 iana-etc 20210728-1
 keyutils 1.6.3-1
 krb5 1.19.1-1
@@ -42,7 +42,7 @@ libnghttp2 1.44.0-1
 libp11-kit 0.24.0-1
 libpsl 0.21.1-1
 libsasl 2.1.27-3
-libseccomp 2.5.1-2
+libseccomp 2.5.2-1
 libsecret 0.20.4-1
 libssh2 1.9.0-3
 libtasn1 4.17.0-1
@@ -57,7 +57,7 @@ nettle 3.7.3-1
 npth 1.6-3
 openssl 1.1.1.l-1
 p11-kit 0.24.0-1
-pacman 6.0.0-5
+pacman 6.0.1-1
 pacman-mirrorlist 20210822-1
 pam 1.5.1-1
 pambase 20210605-2
@@ -71,7 +71,7 @@ shadow 4.8.1-4
 sqlite 3.36.0-1
 systemd-libs 249.4-1
 tar 1.34-1
-tzdata 2021a-1
+tzdata 2021a-2
 util-linux 2.37.2-1
 util-linux-libs 2.37.2-1
 which 2.21-5
