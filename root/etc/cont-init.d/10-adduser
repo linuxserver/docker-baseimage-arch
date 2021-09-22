@@ -50,6 +50,11 @@ Some apps might not behave correctly without this
 '
 fi
 
+chmod 755 \
+  /etc \
+  /usr \
+  /usr/bin
+
 chown abc:abc /app
 chown abc:abc /config
 chown abc:abc /defaults
