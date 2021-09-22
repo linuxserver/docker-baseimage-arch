@@ -98,6 +98,10 @@ RUN \
     patch && \
   patch -u /etc/s6/init/init-stage2 -i /init-stage2.patch && \
   echo "**** cleanup ****" && \
+  chmod 755 \
+    /etc \
+    /usr \
+    /usr/bin && \
   pacman -Rsn --noconfirm \
     patch && \
   rm -rf \

@@ -104,7 +104,11 @@ RUN \
   pacman -Sy --noconfirm \
     patch && \
   patch -u /etc/s6/init/init-stage2 -i /init-stage2.patch && \
-  echo "**** cleanup ****" && \
+  echo "**** cleanup and perms ****" && \
+  chmod 755 \
+    /etc \
+    /usr \
+    /usr/bin && \
   pacman -Rsn --noconfirm \
     patch && \
   rm -rf \
