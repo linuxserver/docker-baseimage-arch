@@ -9,10 +9,10 @@ ca-certificates 20210603-1
 ca-certificates-mozilla 3.70-1
 ca-certificates-utils 20210603-1
 coreutils 8.32-1
-curl 7.79.0-4
+curl 7.79.1-1
 e2fsprogs 1.46.4-1
 expat 2.4.1-1
-file 5.40-5
+file 5.40-6
 filesystem 2021.05.31-1
 findutils 4.8.0-1
 gawk 5.1.0-1
@@ -39,7 +39,7 @@ libgpg-error 1.42-1
 libidn2 2.3.2-1
 libksba 1.6.0-1
 libldap 2.4.59-2
-libnghttp2 1.44.0-1
+libnghttp2 1.45.0-1
 libp11-kit 0.24.0-1
 libpsl 0.21.1-1
 libsasl 2.1.27-3
