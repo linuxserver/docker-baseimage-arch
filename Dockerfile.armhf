@@ -100,9 +100,12 @@ RUN \
   echo "**** cleanup ****" && \
   pacman -Rsn --noconfirm \
     patch && \
+  pacman -Rsn --noconfirm \
+    $(pacman -Qdtq) || : && \
   rm -rf \
     /init-stage2.patch \
     /tmp/* \
+    /var/cache/pacman/pkg/* \
     /var/lib/pacman/sync/*
 
 # add local files
