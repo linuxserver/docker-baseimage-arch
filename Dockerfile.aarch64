@@ -97,6 +97,9 @@ RUN \
   pacman -Sy --noconfirm \
     patch && \
   patch -u /etc/s6/init/init-stage2 -i /init-stage2.patch && \
+  echo "**** configure locale ****" && \
+  echo "en_US.UTF-8 UTF-8" > /etc/locale.gen && \
+  locale-gen && \
   echo "**** cleanup ****" && \
   chmod 755 \
     /etc \
