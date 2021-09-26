@@ -72,7 +72,7 @@ shadow 4.8.1-4
 sqlite 3.36.0-1
 systemd-libs 249.4-1
 tar 1.34-1
-tzdata 2021a-2
+tzdata 2021b-1
 util-linux 2.37.2-1
 util-linux-libs 2.37.2-1
 which 2.21-5
