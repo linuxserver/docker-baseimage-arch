@@ -110,8 +110,6 @@ RUN \
   echo "**** cleanup ****" && \
   pacman -Rsn --noconfirm \
     patch && \
-  pacman -Rsn --noconfirm \
-    $(pacman -Qdtq) || : && \
   rm -rf \
     /init-stage2.patch \
     /tmp/* \
