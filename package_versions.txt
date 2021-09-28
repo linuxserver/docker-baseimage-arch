@@ -8,7 +8,7 @@ bzip2 1.0.8-4
 ca-certificates 20210603-1
 ca-certificates-mozilla 3.70-1
 ca-certificates-utils 20210603-1
-coreutils 8.32-1
+coreutils 9.0-1
 curl 7.79.1-1
 e2fsprogs 1.46.4-1
 expat 2.4.1-1
