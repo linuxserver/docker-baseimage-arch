@@ -1,5 +1,5 @@
 acl 2.3.1-1
-archlinux-keyring 20220118-1
+archlinux-keyring 20220125-1
 attr 2.5.1-1
 audit 3.0.6-5
 bash 5.1.016-1
@@ -9,15 +9,15 @@ ca-certificates 20210603-1
 ca-certificates-mozilla 3.74-1
 ca-certificates-utils 20210603-1
 coreutils 9.0-2
-curl 7.81.0-1
+curl 7.81.0-2
 e2fsprogs 1.46.5-1
-expat 2.4.3-1
+expat 2.4.4-1
 file 5.41-1
 filesystem 2021.12.07-1
 findutils 4.8.0-1
 gawk 5.1.1-1
 gcc-libs 11.1.0-3
-glib2 2.70.2-2
+glib2 2.70.3-1
 glibc 2.33-5
 gmp 6.2.1-1
 gnupg 2.2.32-2
@@ -31,11 +31,11 @@ krb5 1.19.2-2
 less 1:590-1
 libarchive 3.5.2-2
 libassuan 2.5.5-1
-libcap 2.62-1
+libcap 2.63-1
 libcap-ng 0.8.2-6
 libffi 3.4.2-4
 libgcrypt 1.9.4-1
-libgpg-error 1.43-1
+libgpg-error 1.44-1
 libidn2 2.3.2-1
 libksba 1.6.0-1
 libldap 2.6.1-1
@@ -71,7 +71,7 @@ readline 8.1.001-1
 sed 4.8-1
 shadow 4.8.1-4
 sqlite 3.37.2-1
-systemd-libs 250.3-1
+systemd-libs 250.3-2
 tar 1.34-1
 tzdata 2021e-1
 util-linux 2.37.3-1
@@ -79,4 +79,4 @@ util-linux-libs 2.37.3-1
 which 2.21-5
 xz 5.2.5-2
 zlib 1:1.2.11-5
-zstd 1.5.2-1
+zstd 1.5.2-2
