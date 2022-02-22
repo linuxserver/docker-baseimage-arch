@@ -10,8 +10,8 @@ ca-certificates-mozilla 3.75-1
 ca-certificates-utils 20210603-1
 coreutils 9.0-2
 curl 7.81.0-2
-e2fsprogs 1.46.5-2
-expat 2.4.4-1
+e2fsprogs 1.46.5-3
+expat 2.4.5-2
 file 5.41-1
 filesystem 2021.12.07-1
 findutils 4.9.0-1
