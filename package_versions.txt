@@ -17,11 +17,11 @@ filesystem 2021.12.07-1
 findutils 4.9.0-1
 gawk 5.1.1-1
 gcc-libs 11.2.0-4
-glib2 2.70.4-2
-glibc 2.35-2
+glib2 2.72.0-1
+glibc 2.35-3
 gmp 6.2.1-1
 gnupg 2.2.32-2
-gnutls 3.7.3-1
+gnutls 3.7.4-1
 gpgme 1.17.1-1
 grep 3.7-1
 gzip 1.11-1
@@ -58,7 +58,7 @@ mpfr 4.1.0.p13-2
 ncurses 6.3-2
 nettle 3.7.3-1
 npth 1.6-3
-openssl 1.1.1.m-1
+openssl 1.1.1.n-1
 p11-kit 0.24.1-1
 pacman 6.0.1-4
 pacman-mirrorlist 20220227-1
@@ -72,10 +72,10 @@ readline 8.1.002-1
 sed 4.8-1
 shadow 4.11.1-1
 sqlite 3.38.1-1
-systemd-libs 250.4-1
+systemd-libs 250.4-2
 tar 1.34-1
 tpm2-tss 3.2.0-1
-tzdata 2021e-1
+tzdata 2022a-1
 util-linux 2.37.4-1
 util-linux-libs 2.37.4-1
 which 2.21-5
