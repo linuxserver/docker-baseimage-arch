@@ -1,4 +1,4 @@
-FROM alpine:3.14 as rootfs-stage
+FROM alpine:3.15 as rootfs-stage
 
 ARG ARCH_VERSION
 
@@ -8,8 +8,10 @@ RUN \
     bash \
     curl \
     jq \
+    tar \
     tzdata \
-    xz
+    xz \
+    zstd
 
 # grab latest rootfs
 RUN \
@@ -19,14 +21,14 @@ RUN \
     | jq -r '.[0].tag_name' | sed 's/^v//g'); \
   fi && \
   PACK_ID=$(curl -sL https://gitlab.archlinux.org/api/v4/projects/10185/packages?sort=desc | jq -r '.[] | select(.version == "'${ARCH_VERSION}'") | .id') && \
-  TAR_ID=$(curl -sL https://gitlab.archlinux.org/api/v4/projects/10185/packages/${PACK_ID}/package_files | jq '.[] | select(.file_name == "base-'${ARCH_VERSION}'.tar.xz") | .id') && \
+  TAR_ID=$(curl -sL https://gitlab.archlinux.org/api/v4/projects/10185/packages/${PACK_ID}/package_files | jq '.[] | select(.file_name == "base-'${ARCH_VERSION}'.tar.zst") | .id') && \
   echo "**** download/extract rootfs ****" && \
   curl -o \
-    /rootfs.tar.xz -L \
+    /rootfs.tar.zst -L \
     https://gitlab.archlinux.org/archlinux/archlinux-docker/-/package_files/${TAR_ID}/download && \
   mkdir /root-out && \
   tar xf \
-    /rootfs.tar.xz -C \
+    /rootfs.tar.zst -C \
     /root-out
 
 # pacstrap stage
