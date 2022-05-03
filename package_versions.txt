@@ -6,7 +6,7 @@ bash 5.1.016-1
 brotli 1.0.9-8
 bzip2 1.0.8-4
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.77-1
+ca-certificates-mozilla 3.78-1
 ca-certificates-utils 20210603-1
 coreutils 9.1-1
 curl 7.83.0-1
@@ -17,6 +17,7 @@ filesystem 2021.12.07-1
 findutils 4.9.0-1
 gawk 5.1.1-1
 gcc-libs 11.2.0-4
+gdbm 1.23-1
 glib2 2.72.1-1
 glibc 2.35-3
 gmp 6.2.1-1
@@ -43,7 +44,7 @@ libldap 2.6.1-1
 libnghttp2 1.47.0-1
 libp11-kit 0.24.1-1
 libpsl 0.21.1-1
-libsasl 2.1.27-3
+libsasl 2.1.28-1
 libseccomp 2.5.4-1
 libsecret 0.20.5-2
 libssh2 1.10.0-1
