@@ -84,4 +84,4 @@ util-linux-libs 2.38-1
 which 2.21-5
 xz 5.2.5-3
 zlib 1:1.2.12-2
-zstd 1.5.2-5
+zstd 1.5.2-7
