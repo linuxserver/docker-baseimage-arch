@@ -6,11 +6,11 @@ bash 5.1.016-1
 brotli 1.0.9-8
 bzip2 1.0.8-4
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.79-1
+ca-certificates-mozilla 3.80-1
 ca-certificates-utils 20210603-1
 coreutils 9.1-1
-curl 7.83.1-1
-e2fsprogs 1.46.5-3
+curl 7.84.0-1
+e2fsprogs 1.46.5-4
 expat 2.4.8-1
 file 5.42-1
 filesystem 2021.12.07-1
@@ -42,7 +42,7 @@ libgpg-error 1.45-2
 libidn2 2.3.2-1
 libksba 1.6.0-1
 libldap 2.6.2-2
-libnghttp2 1.47.0-1
+libnghttp2 1.48.0-1
 libp11-kit 0.24.1-1
 libpsl 0.21.1-1
 libsasl 2.1.28-1
@@ -61,7 +61,7 @@ mpfr 4.1.0.p13-2
 ncurses 6.3-3
 nettle 3.8-1
 npth 1.6-3
-openssl 1.1.1.o-1
+openssl 1.1.1.p-1
 p11-kit 0.24.1-1
 pacman 6.0.1-5
 pacman-mirrorlist 20220605-1
