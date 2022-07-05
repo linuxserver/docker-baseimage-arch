@@ -28,6 +28,11 @@ if [ ! -f /usr/bin/curl ] || [ ! -f /usr/bin/jq ]; then
     apk add --no-cache \
       curl \
       jq
+  elif [ -f /usr/sbin/pacman ]; then
+    # Arch
+    pacman -Sy --noconfirm \
+      curl \
+      jq      
   fi
 fi
 
