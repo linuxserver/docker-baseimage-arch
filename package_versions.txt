@@ -9,7 +9,7 @@ ca-certificates 20210603-1
 ca-certificates-mozilla 3.80-1
 ca-certificates-utils 20210603-1
 coreutils 9.1-1
-curl 7.84.0-1
+curl 7.84.0-2
 e2fsprogs 1.46.5-4
 expat 2.4.8-1
 file 5.42-1
@@ -21,7 +21,7 @@ gdbm 1.23-1
 glib2 2.72.3-1
 glibc 2.35-6
 gmp 6.2.1-2
-gnupg 2.2.35-2
+gnupg 2.2.36-1
 gnutls 3.7.6-1
 gpgme 1.17.1-1
 grep 3.7-1
@@ -61,7 +61,7 @@ mpfr 4.1.0.p13-2
 ncurses 6.3-3
 nettle 3.8-1
 npth 1.6-3
-openssl 1.1.1.p-1
+openssl 1.1.1.q-1
 p11-kit 0.24.1-1
 pacman 6.0.1-5
 pacman-mirrorlist 20220605-1
