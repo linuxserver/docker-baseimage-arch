@@ -1,5 +1,5 @@
 acl 2.3.1-2
-archlinux-keyring 20220424-1
+archlinux-keyring 20220713-1
 attr 2.5.1-2
 audit 3.0.8-1
 bash 5.1.016-1
@@ -39,9 +39,9 @@ libevent 2.1.12-1
 libffi 3.4.2-5
 libgcrypt 1.10.1-1
 libgpg-error 1.45-2
-libidn2 2.3.2-1
+libidn2 2.3.3-1
 libksba 1.6.0-1
-libldap 2.6.2-2
+libldap 2.6.3-1
 libnghttp2 1.48.0-1
 libp11-kit 0.24.1-1
 libpsl 0.21.1-1
@@ -74,8 +74,8 @@ procps-ng 3.3.17-1
 readline 8.1.002-1
 sed 4.8-1
 shadow 4.11.1-1
-sqlite 3.39.0-2
-systemd-libs 251.2-1
+sqlite 3.39.1-1
+systemd-libs 251.3-1
 tar 1.34-1
 tpm2-tss 3.2.0-1
 tzdata 2022a-1
