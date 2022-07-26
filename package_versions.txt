@@ -6,7 +6,7 @@ bash 5.1.016-1
 brotli 1.0.9-8
 bzip2 1.0.8-4
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.80-1
+ca-certificates-mozilla 3.81-1
 ca-certificates-utils 20210603-1
 coreutils 9.1-1
 curl 7.84.0-2
@@ -16,7 +16,7 @@ file 5.42-1
 filesystem 2021.12.07-1
 findutils 4.9.0-1
 gawk 5.1.1-1
-gcc-libs 12.1.0-2
+gcc-libs 12.1.0-3
 gdbm 1.23-1
 glib2 2.72.3-1
 glibc 2.35-6
@@ -33,7 +33,7 @@ krb5 1.19.3-3
 less 1:590-1
 libarchive 3.6.1-1
 libassuan 2.5.5-1
-libcap 2.64-1
+libcap 2.65-1
 libcap-ng 0.8.3-1
 libevent 2.1.12-1
 libffi 3.4.2-5
@@ -64,7 +64,7 @@ npth 1.6-3
 openssl 1.1.1.q-1
 p11-kit 0.24.1-1
 pacman 6.0.1-5
-pacman-mirrorlist 20220605-1
+pacman-mirrorlist 20220724-1
 pam 1.5.2-1
 pambase 20211210-1
 pcre 8.45-1
