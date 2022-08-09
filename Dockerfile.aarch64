@@ -18,7 +18,17 @@ RUN \
   mkdir /root-out && \
   tar xf \
     /rootfs.tar.xz -C \
-    /root-out
+    /root-out && \
+  mkdir -p /root-out/usr/share/pacman/keyrings/ && \
+  curl -o \
+    /root-out/usr/share/pacman/keyrings/archlinuxarm.gpg -L \
+    https://raw.githubusercontent.com/archlinuxarm/archlinuxarm-keyring/master/archlinuxarm.gpg && \
+  curl -o \
+    /root-out/usr/share/pacman/keyrings/archlinuxarm-revoked -L \
+    https://raw.githubusercontent.com/archlinuxarm/archlinuxarm-keyring/master/archlinuxarm-revoked && \
+  curl -o \
+    /root-out/usr/share/pacman/keyrings/archlinuxarm-trusted -L \
+    https://raw.githubusercontent.com/archlinuxarm/archlinuxarm-keyring/master/archlinuxarm-trusted
 
 # pacstrap stage
 FROM scratch as pacstrap-stage
@@ -35,6 +45,7 @@ RUN \
   pacman-key --init && \
   pacman-key --populate archlinuxarm && \
   pacman -r /root-out -Sy --noconfirm \
+    archlinuxarm-keyring \
     bash \
     coreutils \
     findutils \
