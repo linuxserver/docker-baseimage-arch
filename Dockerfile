@@ -44,6 +44,7 @@ RUN \
   mkdir -m 0555 -p \
     /root-out/{sys,proc} && \
   pacman -r /root-out -Sy --noconfirm \
+    archlinux-keyring \
     bash \
     coreutils \
     findutils \
