@@ -14,7 +14,7 @@ RUN \
   echo "**** download/extract rootfs ****" && \
   curl -o \
     /rootfs.tar.xz -L \
-    http://os.archlinuxarm.org/os/ArchLinuxARM-aarch64-latest.tar.gz && \
+    http://os.archlinuxarm.org/os/ArchLinuxARM-armv7-latest.tar.gz && \
   mkdir /root-out && \
   tar xf \
     /rootfs.tar.xz -C \
