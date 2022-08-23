@@ -6,7 +6,7 @@ bash 5.1.016-1
 brotli 1.0.9-8
 bzip2 1.0.8-4
 ca-certificates 20210603-1
-ca-certificates-mozilla 3.81-1
+ca-certificates-mozilla 3.82-1
 ca-certificates-utils 20210603-1
 coreutils 9.1-1
 curl 7.84.0-2
@@ -16,14 +16,14 @@ file 5.42-1
 filesystem 2021.12.07-1
 findutils 4.9.0-1
 gawk 5.1.1-1
-gcc-libs 12.1.1-4
+gcc-libs 12.2.0-1
 gdbm 1.23-1
 gettext 0.21-2
 glib2 2.72.3-1
-glibc 2.36-2
+glibc 2.36-3
 gmp 6.2.1-2
 gnupg 2.2.36-1
-gnutls 3.7.7-1
+gnutls 3.7.7-3
 gpgme 1.18.0-1
 grep 3.7-1
 gzip 1.12-1
@@ -81,7 +81,7 @@ sqlite 3.39.2-2
 systemd-libs 251.4-1
 tar 1.34-1
 tpm2-tss 3.2.0-1
-tzdata 2022b-1
+tzdata 2022c-1
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 which 2.21-5
