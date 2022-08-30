@@ -12,7 +12,7 @@ coreutils 9.1-1
 curl 7.84.0-2
 e2fsprogs 1.46.5-4
 expat 2.4.8-1
-file 5.42-1
+file 5.42-2
 filesystem 2021.12.07-1
 findutils 4.9.0-1
 gawk 5.1.1-1
