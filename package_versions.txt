@@ -59,7 +59,7 @@ libverto 0.3.2-4
 libxcrypt 4.4.28-2
 libxml2 2.10.2-2
 linux-api-headers 5.18.15-1
-lz4 1:1.9.3-2
+lz4 1:1.9.4-1
 mpfr 4.1.0.p13-3
 ncurses 6.3-3
 nettle 3.8.1-1
