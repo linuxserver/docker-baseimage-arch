@@ -22,7 +22,7 @@ gettext 0.21-2
 glib2 2.72.3-1
 glibc 2.36-3
 gmp 6.2.1-2
-gnupg 2.2.37-1
+gnupg 2.2.38-1
 gnutls 3.7.7-3
 gpgme 1.18.0-1
 grep 3.7-1
