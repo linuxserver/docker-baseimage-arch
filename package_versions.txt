@@ -15,7 +15,7 @@ expat 2.4.8-1
 file 5.42-2
 filesystem 2021.12.07-1
 findutils 4.9.0-1
-gawk 5.1.1-1
+gawk 5.2.0-3
 gcc-libs 12.2.0-1
 gdbm 1.23-1
 gettext 0.21-2
@@ -25,7 +25,7 @@ gmp 6.2.1-2
 gnupg 2.2.39-1
 gnutls 3.7.7-3
 gpgme 1.18.0-1
-grep 3.7-1
+grep 3.8-2
 gzip 1.12-1
 iana-etc 20220715-1
 icu 71.1-1
