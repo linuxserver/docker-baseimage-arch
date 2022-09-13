@@ -20,7 +20,7 @@ gcc-libs 12.2.0-1
 gdbm 1.23-1
 gettext 0.21-2
 glib2 2.72.3-3
-glibc 2.36-3
+glibc 2.36-4
 gmp 6.2.1-2
 gnupg 2.2.39-1
 gnutls 3.7.7-3
