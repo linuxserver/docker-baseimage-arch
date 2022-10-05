@@ -66,7 +66,17 @@ RUN \
     which && \
   cp -a /etc/pacman.conf /root-out/etc/pacman.conf && \
   cp -a /etc/pacman.d/mirrorlist /root-out/etc/pacman.d/mirrorlist && \
-  rm /root-out/var/lib/pacman/sync/*
+  rm /root-out/var/lib/pacman/sync/* && \
+  mkdir -p /root-out/usr/share/pacman/keyrings/ && \
+  curl -o \
+    /root-out/usr/share/pacman/keyrings/archlinuxarm.gpg -L \
+    https://raw.githubusercontent.com/archlinuxarm/archlinuxarm-keyring/master/archlinuxarm.gpg && \
+  curl -o \
+    /root-out/usr/share/pacman/keyrings/archlinuxarm-revoked -L \
+    https://raw.githubusercontent.com/archlinuxarm/archlinuxarm-keyring/master/archlinuxarm-revoked && \
+  curl -o \
+    /root-out/usr/share/pacman/keyrings/archlinuxarm-trusted -L \
+    https://raw.githubusercontent.com/archlinuxarm/archlinuxarm-keyring/master/archlinuxarm-trusted
 
 # set version for s6 overlay
 ARG S6_OVERLAY_VERSION="3.1.2.1"
