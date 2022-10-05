@@ -47,11 +47,14 @@ RUN \
     archlinux-keyring \
     bash \
     coreutils \
+    curl \
     findutils \
     gawk \
     grep \
     gzip \
+    jq \
     less \
+    netcat \
     pacman \
     procps-ng \
     sed \
@@ -85,8 +88,11 @@ FROM scratch
 COPY --from=pacstrap-stage /root-out/ /
 ARG BUILD_DATE
 ARG VERSION
+ARG MODS_VERSION="v3"
 LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="TheLamer"
+
+ADD "https://raw.githubusercontent.com/linuxserver/docker-mods/mod-scripts/docker-mods.${MODS_VERSION}" "/docker-mods"
 
 # environment variables
 ENV PS1="$(whoami)@$(hostname):$(pwd)\\$ " \
@@ -112,6 +118,7 @@ RUN \
   echo "**** configure locale ****" && \
   echo "en_US.UTF-8 UTF-8" > /etc/locale.gen && \
   locale-gen && \
+  chmod +x /docker-mods && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/* \
