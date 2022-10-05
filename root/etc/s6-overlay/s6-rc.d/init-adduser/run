@@ -52,6 +52,11 @@ Apps will not behave correctly without this
     sleep infinity
 fi
 
+chmod 755 \
+    /etc \
+    /usr \
+    /usr/bin
+
 chown abc:abc /app
 chown abc:abc /config
 chown abc:abc /defaults
