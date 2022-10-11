@@ -20,7 +20,7 @@ gcc-libs 12.2.0-1
 gdbm 1.23-1
 gettext 0.21-2
 glib2 2.74.0-2
-glibc 2.36-4
+glibc 2.36-6
 gmp 6.2.1-2
 gnupg 2.2.39-1
 gnutls 3.7.8-1
@@ -40,9 +40,9 @@ libcap-ng 0.8.3-1
 libevent 2.1.12-2
 libffi 3.4.3-1
 libgcrypt 1.10.1-1
-libgpg-error 1.45-2
+libgpg-error 1.46-1
 libidn2 2.3.3-1
-libksba 1.6.0-1
+libksba 1.6.2-1
 libldap 2.6.3-1
 libnghttp2 1.50.0-1
 libp11-kit 0.24.1-1
