@@ -2,7 +2,8 @@
 
 # jenkins variables
 project_name: docker-baseimage-arch
-external_type: os
+external_type: na
+custom_version_command: "echo $(date +%F)"
 release_type: stable
 release_tag: latest
 ls_branch: master
