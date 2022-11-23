@@ -3,8 +3,8 @@ archlinux-keyring 20221110-1
 attr 2.5.1-2
 audit 3.0.8-1
 bash 5.1.016-1
-brotli 1.0.9-8
-bzip2 1.0.8-4
+brotli 1.0.9-9
+bzip2 1.0.8-5
 ca-certificates 20220905-1
 ca-certificates-mozilla 3.85-1
 ca-certificates-utils 20220905-1
@@ -30,7 +30,7 @@ gpgme 1.18.0-1
 grep 3.8-2
 gzip 1.12-1
 iana-etc 20221107-1
-icu 72.1-1
+icu 72.1-2
 jq 1.6-4
 json-c 0.16-1
 keyutils 1.6.3-1
@@ -59,11 +59,11 @@ libtasn1 4.19.0-1
 libtirpc 1.3.3-2
 libunistring 1.1-2
 libverto 0.3.2-4
-libxcrypt 4.4.31-1
+libxcrypt 4.4.33-1
 libxml2 2.10.3-2
 linux-api-headers 5.18.15-1
 lz4 1:1.9.4-1
-mpfr 4.1.0.p13-3
+mpfr 4.1.1-1
 ncurses 6.3-3
 nettle 3.8.1-1
 npth 1.6-3
@@ -82,7 +82,7 @@ readline 8.2.001-1
 sed 4.8-1
 shadow 4.12.3-2
 sqlite 3.40.0-1
-systemd-libs 252.1-1
+systemd-libs 252.1-2
 tar 1.34-1
 texinfo 7.0-1
 tpm2-tss 3.2.0-3
@@ -91,5 +91,5 @@ util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 which 2.21-5
 xz 5.2.8-1
-zlib 1:1.2.13-1
+zlib 1:1.2.13-2
 zstd 1.5.2-7
