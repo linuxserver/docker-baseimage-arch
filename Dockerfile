@@ -1,3 +1,5 @@
+# syntax=docker/dockerfile:1
+
 FROM alpine:3.15 as rootfs-stage
 
 ARG ARCH_VERSION
@@ -92,7 +94,7 @@ ARG MODS_VERSION="v3"
 LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="TheLamer"
 
-ADD "https://raw.githubusercontent.com/linuxserver/docker-mods/mod-scripts/docker-mods.${MODS_VERSION}" "/docker-mods"
+ADD --chmod=744 "https://raw.githubusercontent.com/linuxserver/docker-mods/mod-scripts/docker-mods.${MODS_VERSION}" "/docker-mods"
 
 # environment variables
 ENV PS1="$(whoami)@$(hostname):$(pwd)\\$ " \
@@ -118,7 +120,6 @@ RUN \
   echo "**** configure locale ****" && \
   echo "en_US.UTF-8 UTF-8" > /etc/locale.gen && \
   locale-gen && \
-  chmod +x /docker-mods && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/* \
