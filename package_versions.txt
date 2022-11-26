@@ -1,5 +1,5 @@
 acl 2.3.1-2
-archlinux-keyring 20221110-1
+archlinux-keyring 20221123-1
 attr 2.5.1-2
 audit 3.0.8-1
 bash 5.1.016-1
@@ -16,7 +16,7 @@ expat 2.5.0-1
 file 5.43-1
 filesystem 2022.10.18-1
 findutils 4.9.0-1
-gawk 5.2.0-3
+gawk 5.2.1-1
 gcc-libs 12.2.0-1
 gdbm 1.23-1
 gettext 0.21.1-2
@@ -82,7 +82,7 @@ readline 8.2.001-1
 sed 4.8-1
 shadow 4.12.3-2
 sqlite 3.40.0-1
-systemd-libs 252.1-2
+systemd-libs 252.2-1
 tar 1.34-1
 texinfo 7.0-1
 tpm2-tss 3.2.0-3
