@@ -10,6 +10,7 @@ RUN \
     bash \
     curl \
     jq \
+    tar \
     tzdata \
     xz \
     zstd
