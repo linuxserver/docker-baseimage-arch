@@ -17,16 +17,16 @@ file 5.44-1
 filesystem 2022.10.18-1
 findutils 4.9.0-1
 gawk 5.2.1-1
-gcc-libs 12.2.0-1
+gcc-libs 12.2.1-1
 gdbm 1.23-1
 gettext 0.21.1-2
 glib2 2.74.4-1
-glibc 2.36-6
+glibc 2.36-7
 gmp 6.2.1-2
 gnu-netcat 0.7.1-9
 gnupg 2.2.40-1
 gnutls 3.7.8-4
-gpgme 1.18.0-1
+gpgme 1.18.0-2
 grep 3.8-2
 gzip 1.12-1
 iana-etc 20221215-1
@@ -54,7 +54,7 @@ libsasl 2.1.28-3
 libseccomp 2.5.4-1
 libsecret 0.20.5-2
 libssh2 1.10.0-3
-libsysprof-capture 3.46.0-1
+libsysprof-capture 3.46.0-3
 libtasn1 4.19.0-1
 libtirpc 1.3.3-2
 libunistring 1.1-2
@@ -63,7 +63,7 @@ libxcrypt 4.4.33-1
 libxml2 2.10.3-2
 linux-api-headers 5.18.15-1
 lz4 1:1.9.4-1
-mpfr 4.1.1.p1-1
+mpfr 4.2.0-2
 ncurses 6.4-1
 nettle 3.8.1-1
 npth 1.6-3
