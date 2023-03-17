@@ -7,7 +7,7 @@ bash                     5.1.016-3     alpm
 brotli                   1.0.9-10      alpm  
 bzip2                    1.0.8-5       alpm  
 ca-certificates          20220905-1    alpm  
-ca-certificates-mozilla  3.88.1-1      alpm  
+ca-certificates-mozilla  3.89-1        alpm  
 ca-certificates-utils    20220905-1    alpm  
 coreutils                9.1-3         alpm  
 curl                     7.88.1-3      alpm  
@@ -16,12 +16,12 @@ e2fsprogs                1.47.0-1      alpm
 expat                    2.5.0-1       alpm  
 file                     5.44-3        alpm  
 filesystem               2023.01.31-1  alpm  
-findutils                4.9.0-2       alpm  
-gawk                     5.2.1-1       alpm  
+findutils                4.9.0-3       alpm  
+gawk                     5.2.1-2       alpm  
 gcc-libs                 12.2.1-2      alpm  
 gdbm                     1.23-1        alpm  
 gettext                  0.21.1-2      alpm  
-glib2                    2.74.6-1      alpm  
+glib2                    2.76.0-1      alpm  
 glibc                    2.37-2        alpm  
 gmp                      6.2.1-2       alpm  
 gnu-netcat               0.7.1-9       alpm  
@@ -30,7 +30,7 @@ gnutls                   3.8.0-1       alpm
 gpgme                    1.18.0-2      alpm  
 grep                     3.9-1         alpm  
 gzip                     1.12-2        alpm  
-iana-etc                 20230105-1    alpm  
+iana-etc                 20230306-1    alpm  
 icu                      72.1-2        alpm  
 jq                       1.6-4         alpm  
 json-c                   0.16-1        alpm  
@@ -82,7 +82,7 @@ procps-ng                3.3.17-1      alpm
 readline                 8.2.001-2     alpm  
 sed                      4.9-3         alpm  
 shadow                   4.13-2        alpm  
-sqlite                   3.41.0-1      alpm  
+sqlite                   3.41.1-1      alpm  
 systemd-libs             253.1-3       alpm  
 tar                      1.34-2        alpm  
 texinfo                  7.0.2-2       alpm  
