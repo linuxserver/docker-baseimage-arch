@@ -31,7 +31,7 @@ gnutls                                         3.8.0-1       alpm
 gpgme                                          1.19.0-3      alpm       
 grep                                           3.10-1        alpm       
 gzip                                           1.12-2        alpm       
-iana-etc                                       20230306-1    alpm       
+iana-etc                                       20230405-1    alpm       
 icu                                            72.1-2        alpm       
 jq                                             1.6-4         alpm       
 json-c                                         0.16-1        alpm       
@@ -46,8 +46,8 @@ libcap                                         2.68-1        alpm
 libcap-ng                                      0.8.3-1       alpm       
 libevent                                       2.1.12-4      alpm       
 libffi                                         3.4.4-1       alpm       
-libgcrypt                                      1.10.1-2      alpm       
-libgpg-error                                   1.46-2        alpm       
+libgcrypt                                      1.10.2-1      alpm       
+libgpg-error                                   1.47-1        alpm       
 libidn2                                        2.3.4-3       alpm       
 libksba                                        1.6.3-1       alpm       
 libldap                                        2.6.4-1       alpm       
@@ -75,7 +75,7 @@ oniguruma                                      6.9.8-1       alpm
 openssl                                        3.0.8-1       alpm       
 p11-kit                                        0.24.1-1      alpm       
 pacman                                         6.0.2-6       alpm       
-pacman-mirrorlist                              20230226-1    alpm       
+pacman-mirrorlist                              20230410-1    alpm       
 pam                                            1.5.2-1       alpm       
 pambase                                        20221020-1    alpm       
 pcre2                                          10.42-2       alpm       
@@ -86,7 +86,7 @@ readline                                       8.2.001-2     alpm
 sed                                            4.9-3         alpm       
 shadow                                         4.13-2        alpm       
 sqlite                                         3.41.2-1      alpm       
-systemd-libs                                   253.3-1       alpm       
+systemd-libs                                   253.3-3       alpm       
 tar                                            1.34-2        alpm       
 texinfo                                        7.0.3-1       alpm       
 tpm2-tss                                       3.2.0-3       alpm       
