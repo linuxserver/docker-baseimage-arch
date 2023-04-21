@@ -28,7 +28,7 @@ gmp                                            6.2.1-2       alpm
 gnu-netcat                                     0.7.1-9       alpm       
 gnupg                                          2.2.41-1      alpm       
 gnutls                                         3.8.0-1       alpm       
-gpgme                                          1.19.0-3      alpm       
+gpgme                                          1.20.0-1      alpm       
 grep                                           3.10-1        alpm       
 gzip                                           1.12-2        alpm       
 iana-etc                                       20230405-1    alpm       
@@ -50,7 +50,7 @@ libgcrypt                                      1.10.2-1      alpm
 libgpg-error                                   1.47-1        alpm       
 libidn2                                        2.3.4-3       alpm       
 libksba                                        1.6.3-1       alpm       
-libldap                                        2.6.4-1       alpm       
+libldap                                        2.6.4-2       alpm       
 libnghttp2                                     1.52.0-2      alpm       
 libp11-kit                                     0.24.1-1      alpm       
 libpsl                                         0.21.2-1      alpm       
@@ -76,7 +76,7 @@ openssl                                        3.0.8-1       alpm
 p11-kit                                        0.24.1-1      alpm       
 pacman                                         6.0.2-6       alpm       
 pacman-mirrorlist                              20230410-1    alpm       
-pam                                            1.5.2-1       alpm       
+pam                                            1.5.2-2       alpm       
 pambase                                        20221020-1    alpm       
 pcre2                                          10.42-2       alpm       
 perl                                           5.36.0-3      alpm       
