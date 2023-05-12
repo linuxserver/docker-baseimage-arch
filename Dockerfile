@@ -70,7 +70,7 @@ RUN \
   rm /root-out/var/lib/pacman/sync/*
 
 # set version for s6 overlay
-ARG S6_OVERLAY_VERSION="3.1.2.1"
+ARG S6_OVERLAY_VERSION="3.1.5.0"
 ARG S6_OVERLAY_ARCH="x86_64"
 
 # add s6 overlay
