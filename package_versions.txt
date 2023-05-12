@@ -7,7 +7,7 @@ bash                                           5.1.016-3     alpm
 brotli                                         1.0.9-12      alpm       
 bzip2                                          1.0.8-5       alpm       
 ca-certificates                                20220905-1    alpm       
-ca-certificates-mozilla                        3.89-1        alpm       
+ca-certificates-mozilla                        3.89.1-1      alpm       
 ca-certificates-utils                          20220905-1    alpm       
 command-line-arguments                         (devel)       go-module  
 coreutils                                      9.3-1         alpm       
@@ -18,7 +18,7 @@ expat                                          2.5.0-1       alpm
 file                                           5.44-3        alpm       
 filesystem                                     2023.01.31-1  alpm       
 findutils                                      4.9.0-3       alpm       
-gawk                                           5.2.1-2       alpm       
+gawk                                           5.2.2-1       alpm       
 gcc-libs                                       13.1.1-1      alpm       
 gdbm                                           1.23-2        alpm       
 gettext                                        0.21.1-5      alpm       
@@ -28,7 +28,7 @@ gmp                                            6.2.1-2       alpm
 gnu-netcat                                     0.7.1-9       alpm       
 gnupg                                          2.2.41-1      alpm       
 gnutls                                         3.8.0-1       alpm       
-gpgme                                          1.20.0-2      alpm       
+gpgme                                          1.20.0-3      alpm       
 grep                                           3.10-1        alpm       
 gzip                                           1.12-2        alpm       
 iana-etc                                       20230405-1    alpm       
@@ -39,7 +39,7 @@ kernel.org/pub/linux/libs/security/libcap/cap  v1.2.68       go-module
 kernel.org/pub/linux/libs/security/libcap/psx  v1.2.68       go-module  
 keyutils                                       1.6.3-2       alpm       
 krb5                                           1.20.1-1      alpm       
-less                                           1:608-2       alpm       
+less                                           1:633-1       alpm       
 libarchive                                     3.6.2-2       alpm       
 libassuan                                      2.5.5-2       alpm       
 libcap                                         2.68-1        alpm       
@@ -51,7 +51,7 @@ libgpg-error                                   1.47-1        alpm
 libidn2                                        2.3.4-3       alpm       
 libksba                                        1.6.3-1       alpm       
 libldap                                        2.6.4-2       alpm       
-libnghttp2                                     1.52.0-2      alpm       
+libnghttp2                                     1.53.0-1      alpm       
 libp11-kit                                     0.24.1-1      alpm       
 libpsl                                         0.21.2-1      alpm       
 libsasl                                        2.1.28-4      alpm       
@@ -79,7 +79,7 @@ pacman-mirrorlist                              20230410-1    alpm
 pam                                            1.5.2-2       alpm       
 pambase                                        20221020-1    alpm       
 pcre2                                          10.42-2       alpm       
-perl                                           5.36.0-3      alpm       
+perl                                           5.36.1-1      alpm       
 pinentry                                       1.2.1-1       alpm       
 procps-ng                                      3.3.17-1      alpm       
 readline                                       8.2.001-2     alpm       
@@ -94,6 +94,6 @@ tzdata                                         2023c-1       alpm
 util-linux                                     2.38.1-4      alpm       
 util-linux-libs                                2.38.1-4      alpm       
 which                                          2.21-6        alpm       
-xz                                             5.4.2-1       alpm       
+xz                                             5.4.3-1       alpm       
 zlib                                           1:1.2.13-2    alpm       
 zstd                                           1.5.5-1       alpm       
