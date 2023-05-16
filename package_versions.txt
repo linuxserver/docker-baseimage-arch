@@ -35,14 +35,14 @@ iana-etc                                       20230405-1    alpm
 icu                                            72.1-2        alpm       
 jq                                             1.6-4         alpm       
 json-c                                         0.16-1        alpm       
-kernel.org/pub/linux/libs/security/libcap/cap  v1.2.68       go-module  
-kernel.org/pub/linux/libs/security/libcap/psx  v1.2.68       go-module  
+kernel.org/pub/linux/libs/security/libcap/cap  v1.2.69       go-module  
+kernel.org/pub/linux/libs/security/libcap/psx  v1.2.69       go-module  
 keyutils                                       1.6.3-2       alpm       
 krb5                                           1.20.1-1      alpm       
 less                                           1:633-1       alpm       
 libarchive                                     3.6.2-2       alpm       
 libassuan                                      2.5.5-2       alpm       
-libcap                                         2.68-1        alpm       
+libcap                                         2.69-1        alpm       
 libcap-ng                                      0.8.3-2       alpm       
 libevent                                       2.1.12-4      alpm       
 libffi                                         3.4.4-1       alpm       
@@ -67,7 +67,7 @@ libxcrypt                                      4.4.33-1      alpm
 libxml2                                        2.10.4-4      alpm       
 linux-api-headers                              6.3-1         alpm       
 lz4                                            1:1.9.4-1     alpm       
-mpfr                                           4.2.0.p4-1    alpm       
+mpfr                                           4.2.0.p7-2    alpm       
 ncurses                                        6.4-1         alpm       
 nettle                                         3.8.1-1       alpm       
 npth                                           1.6-4         alpm       
@@ -76,7 +76,7 @@ openssl                                        3.0.8-1       alpm
 p11-kit                                        0.24.1-1      alpm       
 pacman                                         6.0.2-6       alpm       
 pacman-mirrorlist                              20230410-1    alpm       
-pam                                            1.5.2-2       alpm       
+pam                                            1.5.3-1       alpm       
 pambase                                        20221020-1    alpm       
 pcre2                                          10.42-2       alpm       
 perl                                           5.36.1-1      alpm       
@@ -89,8 +89,8 @@ sqlite                                         3.41.2-1      alpm
 systemd-libs                                   253.4-1       alpm       
 tar                                            1.34-2        alpm       
 texinfo                                        7.0.3-1       alpm       
-tpm2-tss                                       3.2.0-3       alpm       
-tzdata                                         2023c-1       alpm       
+tpm2-tss                                       4.0.1-1       alpm       
+tzdata                                         2023c-2       alpm       
 util-linux                                     2.38.1-4      alpm       
 util-linux-libs                                2.38.1-4      alpm       
 which                                          2.21-6        alpm       
