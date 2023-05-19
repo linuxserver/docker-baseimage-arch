@@ -11,7 +11,7 @@ ca-certificates-mozilla                        3.89.1-1      alpm
 ca-certificates-utils                          20220905-1    alpm       
 command-line-arguments                         (devel)       go-module  
 coreutils                                      9.3-1         alpm       
-curl                                           8.0.1-1       alpm       
+curl                                           8.1.0-1       alpm       
 db5.3                                          5.3.28-2      alpm       
 e2fsprogs                                      1.47.0-1      alpm       
 expat                                          2.5.0-1       alpm       
@@ -29,7 +29,7 @@ gnu-netcat                                     0.7.1-9       alpm
 gnupg                                          2.2.41-1      alpm       
 gnutls                                         3.8.0-1       alpm       
 gpgme                                          1.20.0-3      alpm       
-grep                                           3.10-1        alpm       
+grep                                           3.11-1        alpm       
 gzip                                           1.12-2        alpm       
 iana-etc                                       20230405-1    alpm       
 icu                                            72.1-2        alpm       
@@ -69,7 +69,7 @@ linux-api-headers                              6.3-1         alpm
 lz4                                            1:1.9.4-1     alpm       
 mpfr                                           4.2.0.p7-2    alpm       
 ncurses                                        6.4-1         alpm       
-nettle                                         3.8.1-1       alpm       
+nettle                                         3.9-1         alpm       
 npth                                           1.6-4         alpm       
 oniguruma                                      6.9.8-1       alpm       
 openssl                                        3.0.8-1       alpm       
@@ -85,7 +85,7 @@ procps-ng                                      3.3.17-1      alpm
 readline                                       8.2.001-2     alpm       
 sed                                            4.9-3         alpm       
 shadow                                         4.13-2        alpm       
-sqlite                                         3.41.2-1      alpm       
+sqlite                                         3.42.0-1      alpm       
 systemd-libs                                   253.4-1       alpm       
 tar                                            1.34-2        alpm       
 texinfo                                        7.0.3-1       alpm       
