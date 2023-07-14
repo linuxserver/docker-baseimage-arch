@@ -23,16 +23,16 @@ gawk                                           5.2.2-1         alpm
 gcc-libs                                       13.1.1-1        alpm       
 gdbm                                           1.23-2          alpm       
 gettext                                        0.22-1          alpm       
-glib2                                          2.76.3-1        alpm       
+glib2                                          2.76.4-1        alpm       
 glibc                                          2.37-3          alpm       
 gmp                                            6.2.1-2         alpm       
 gnu-netcat                                     0.7.1-9         alpm       
 gnupg                                          2.2.41-1        alpm       
 gnutls                                         3.8.0-1         alpm       
-gpgme                                          1.20.0-3        alpm       
+gpgme                                          1.21.0-1        alpm       
 grep                                           3.11-1          alpm       
 gzip                                           1.12-2          alpm       
-iana-etc                                       20230524-1      alpm       
+iana-etc                                       20230629-1      alpm       
 icu                                            73.2-1          alpm       
 jq                                             1.6-4           alpm       
 json-c                                         0.16-1          alpm       
@@ -52,7 +52,7 @@ libgpg-error                                   1.47-1          alpm
 libidn2                                        2.3.4-3         alpm       
 libksba                                        1.6.4-1         alpm       
 libldap                                        2.6.4-2         alpm       
-libnghttp2                                     1.54.0-1        alpm       
+libnghttp2                                     1.55.0-1        alpm       
 libp11-kit                                     0.25.0-1        alpm       
 libpsl                                         0.21.2-1        alpm       
 libsasl                                        2.1.28-4        alpm       
@@ -88,7 +88,7 @@ readline                                       8.2.001-2       alpm
 sed                                            4.9-3           alpm       
 shadow                                         4.13-2          alpm       
 sqlite                                         3.42.0-1        alpm       
-systemd-libs                                   253.5-2         alpm       
+systemd-libs                                   253.6-2         alpm       
 tar                                            1.34-2          alpm       
 texinfo                                        7.0.3-1         alpm       
 tpm2-tss                                       4.0.1-1         alpm       
