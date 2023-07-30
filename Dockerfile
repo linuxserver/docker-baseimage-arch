@@ -48,6 +48,7 @@ RUN \
   pacman -r /root-out -Sy --noconfirm \
     archlinux-keyring \
     bash \
+    busybox \
     coreutils \
     curl \
     findutils \
@@ -109,9 +110,6 @@ ENV PS1="$(whoami)@$(hostname):$(pwd)\\$ " \
   PATH="/lsiopy/bin:$PATH"
 
 RUN \
-  echo "**** install runtime packages ****" && \
-  pacman -Sy --noconfirm \
-    busybox && \
   echo "**** create abc user and make our folders ****" && \
   groupadd -g 1000 users && \
   useradd -u 911 -U -d /config -s /bin/false abc && \
