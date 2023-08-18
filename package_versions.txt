@@ -16,7 +16,7 @@ db                                             6.2.32-1        alpm
 db5.3                                          5.3.28-2        alpm       
 e2fsprogs                                      1.47.0-1        alpm       
 expat                                          2.5.0-1         alpm       
-file                                           5.44-3          alpm       
+file                                           5.45-1          alpm       
 filesystem                                     2023.01.31-1    alpm       
 findutils                                      4.9.0-3         alpm       
 gawk                                           5.2.2-1         alpm       
@@ -28,7 +28,7 @@ glibc                                          2.38-2          alpm
 gmp                                            6.3.0-1         alpm       
 gnu-netcat                                     0.7.1-9         alpm       
 gnupg                                          2.2.41-1        alpm       
-gnutls                                         3.8.0-1         alpm       
+gnutls                                         3.8.1-1         alpm       
 gpgme                                          1.21.0-1        alpm       
 grep                                           3.11-1          alpm       
 gzip                                           1.12-2          alpm       
@@ -40,7 +40,7 @@ kernel.org/pub/linux/libs/security/libcap/cap  v1.2.69         go-module
 kernel.org/pub/linux/libs/security/libcap/psx  v1.2.69         go-module  
 keyutils                                       1.6.3-2         alpm       
 krb5                                           1.20.1-1        alpm       
-less                                           1:633-1         alpm       
+less                                           1:643-1         alpm       
 libarchive                                     3.7.1-1         alpm       
 libassuan                                      2.5.6-1         alpm       
 libcap                                         2.69-1          alpm       
@@ -57,7 +57,7 @@ libp11-kit                                     0.25.0-1        alpm
 libpsl                                         0.21.2-1        alpm       
 libsasl                                        2.1.28-4        alpm       
 libseccomp                                     2.5.4-2         alpm       
-libsecret                                      0.20.5-2        alpm       
+libsecret                                      0.21.0-1        alpm       
 libssh2                                        1.11.0-1        alpm       
 libsysprof-capture                             3.48.0-4        alpm       
 libtasn1                                       4.19.0-1        alpm       
@@ -93,8 +93,8 @@ tar                                            1.35-1          alpm
 texinfo                                        7.0.3-1         alpm       
 tpm2-tss                                       4.0.1-1         alpm       
 tzdata                                         2023c-2         alpm       
-util-linux                                     2.39.1-1        alpm       
-util-linux-libs                                2.39.1-1        alpm       
+util-linux                                     2.39.2-1        alpm       
+util-linux-libs                                2.39.2-1        alpm       
 which                                          2.21-6          alpm       
 xz                                             5.4.4-1         alpm       
 zlib                                           1:1.2.13-3      alpm       
