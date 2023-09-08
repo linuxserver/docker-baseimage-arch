@@ -23,7 +23,7 @@ gawk                                           5.2.2-1         alpm
 gcc-libs                                       13.2.1-3        alpm       
 gdbm                                           1.23-2          alpm       
 gettext                                        0.22-1          alpm       
-glib2                                          2.76.5-1        alpm       
+glib2                                          2.76.5-2        alpm       
 glibc                                          2.38-3          alpm       
 gmp                                            6.3.0-1         alpm       
 gnu-netcat                                     0.7.1-9         alpm       
