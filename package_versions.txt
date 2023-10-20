@@ -1,6 +1,6 @@
 NAME                                           VERSION         TYPE      
 acl                                            2.3.1-3         alpm       
-archlinux-keyring                              20231012-1      alpm       
+archlinux-keyring                              20231017-1      alpm       
 attr                                           2.5.1-3         alpm       
 audit                                          3.1.2-1         alpm       
 bash                                           5.1.016-4       alpm       
@@ -51,7 +51,7 @@ libgcrypt                                      1.10.2-1        alpm
 libgpg-error                                   1.47-1          alpm       
 libidn2                                        2.3.4-3         alpm       
 libksba                                        1.6.4-1         alpm       
-libldap                                        2.6.6-1         alpm       
+libldap                                        2.6.6-2         alpm       
 libnghttp2                                     1.57.0-1        alpm       
 libp11-kit                                     0.25.0-2        alpm       
 libpsl                                         0.21.2-1        alpm       
@@ -74,7 +74,7 @@ mpfr                                           4.2.1-1         alpm
 ncurses                                        6.4_20230520-1  alpm       
 nettle                                         3.9.1-1         alpm       
 npth                                           1.6-4           alpm       
-oniguruma                                      6.9.8-1         alpm       
+oniguruma                                      6.9.9-1         alpm       
 openssl                                        3.1.3-1         alpm       
 p11-kit                                        0.25.0-2        alpm       
 pacman                                         6.0.2-8         alpm       
