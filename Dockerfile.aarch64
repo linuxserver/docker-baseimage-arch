@@ -49,6 +49,7 @@ RUN \
   pacman -r /root-out -Sy --noconfirm \
     archlinuxarm-keyring \
     bash \
+    busybox \
     coreutils \
     curl \
     findutils \
