@@ -89,7 +89,7 @@ procps-ng                                      4.0.4-2         alpm
 readline                                       8.2.001-2       alpm       
 sed                                            4.9-3           alpm       
 shadow                                         4.14.2-1        alpm       
-sqlite                                         3.43.2-1        alpm       
+sqlite                                         3.44.0-1        alpm       
 stdlib                                         go1.20.4        go-module  
 systemd-libs                                   254.5-1         alpm       
 tar                                            1.35-2          alpm       
