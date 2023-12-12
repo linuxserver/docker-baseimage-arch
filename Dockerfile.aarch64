@@ -20,17 +20,7 @@ RUN \
   mkdir /root-out && \
   tar xf \
     /rootfs.tar.xz -C \
-    /root-out && \
-  mkdir -p /root-out/usr/share/pacman/keyrings/ && \
-  curl -o \
-    /root-out/usr/share/pacman/keyrings/archlinuxarm.gpg -L \
-    https://raw.githubusercontent.com/archlinuxarm/archlinuxarm-keyring/master/archlinuxarm.gpg && \
-  curl -o \
-    /root-out/usr/share/pacman/keyrings/archlinuxarm-revoked -L \
-    https://raw.githubusercontent.com/archlinuxarm/archlinuxarm-keyring/master/archlinuxarm-revoked && \
-  curl -o \
-    /root-out/usr/share/pacman/keyrings/archlinuxarm-trusted -L \
-    https://raw.githubusercontent.com/archlinuxarm/archlinuxarm-keyring/master/archlinuxarm-trusted
+    /root-out
 
 # pacstrap stage
 FROM scratch as pacstrap-stage
@@ -69,6 +59,7 @@ RUN \
     which && \
   cp -a /etc/pacman.conf /root-out/etc/pacman.conf && \
   cp -a /etc/pacman.d/mirrorlist /root-out/etc/pacman.d/mirrorlist && \
+  cp -a /etc/pacman.d/gnupg /root-out/etc/pacman.d/gnupg && \
   rm /root-out/var/lib/pacman/sync/*
 
 # set version for s6 overlay
@@ -122,8 +113,6 @@ RUN \
     /lsiopy && \
   echo "**** configure pacman ****" && \
   locale-gen && \
-  pacman-key --init && \
-  pacman-key --populate archlinuxarm && \
   echo "**** configure locale ****" && \
   echo "en_US.UTF-8 UTF-8" > /etc/locale.gen && \
   locale-gen && \
