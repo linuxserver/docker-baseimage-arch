@@ -58,7 +58,7 @@ libp11-kit                                     0.25.3-1        alpm
 libpsl                                         0.21.2-1        alpm       
 libsasl                                        2.1.28-4        alpm       
 libseccomp                                     2.5.4-2         alpm       
-libsecret                                      0.21.1-1        alpm       
+libsecret                                      0.21.2-1        alpm       
 libssh2                                        1.11.0-1        alpm       
 libsysprof-capture                             45.1-1          alpm       
 libtasn1                                       4.19.0-1        alpm       
@@ -91,7 +91,7 @@ sed                                            4.9-3           alpm
 shadow                                         4.14.2-1        alpm       
 sqlite                                         3.44.2-2        alpm       
 stdlib                                         go1.21.4        go-module  
-systemd-libs                                   255-1           alpm       
+systemd-libs                                   255-2           alpm       
 tar                                            1.35-2          alpm       
 texinfo                                        7.1-2           alpm       
 tpm2-tss                                       4.0.1-1         alpm       
