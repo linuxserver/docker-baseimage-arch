@@ -45,7 +45,7 @@ less                                           1:643-1         alpm
 libarchive                                     3.7.2-1         alpm       
 libassuan                                      2.5.6-1         alpm       
 libcap                                         2.69-3          alpm       
-libcap-ng                                      0.8.3-2         alpm       
+libcap-ng                                      0.8.4-1         alpm       
 libevent                                       2.1.12-4        alpm       
 libffi                                         3.4.4-1         alpm       
 libgcrypt                                      1.10.3-1        alpm       
@@ -70,7 +70,7 @@ libverto                                       0.3.2-4         alpm
 libxcrypt                                      4.4.36-1        alpm       
 libxml2                                        2.12.3-1        alpm       
 linux-api-headers                              6.4-1           alpm       
-lz4                                            1:1.9.4-1       alpm       
+lz4                                            1:1.9.4-2       alpm       
 mpfr                                           4.2.1-1         alpm       
 ncurses                                        6.4_20230520-1  alpm       
 nettle                                         3.9.1-1         alpm       
