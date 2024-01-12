@@ -91,7 +91,7 @@ sed                                            4.9-3           alpm
 shadow                                         4.14.2-1        alpm       
 sqlite                                         3.44.2-2        alpm       
 stdlib                                         go1.21.4        go-module  
-systemd-libs                                   255.2-1         alpm       
+systemd-libs                                   255.2-2         alpm       
 tar                                            1.35-2          alpm       
 texinfo                                        7.1-2           alpm       
 tpm2-tss                                       4.0.1-1         alpm       
