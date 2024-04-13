@@ -40,7 +40,7 @@ kernel.org/pub/linux/libs/security/libcap/cap  v1.2.69         go-module
 kernel.org/pub/linux/libs/security/libcap/psx  v1.2.69         go-module    
 keyutils                                       1.6.3-2         alpm         
 krb5                                           1.21.2-2        alpm         
-less                                           1:643-1         alpm         
+less                                           1:643-2         alpm         
 libarchive                                     3.7.3-1         alpm         
 libassuan                                      2.5.7-2         alpm         
 libcap                                         2.69-4          alpm         
