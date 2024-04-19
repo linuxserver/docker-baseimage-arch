@@ -24,15 +24,15 @@ gcc-libs                                       13.2.1-5        alpm
 gdbm                                           1.23-2          alpm         
 gettext                                        0.22.4-1        alpm         
 glib2                                          2.80.0-2        alpm         
-glibc                                          2.39-1          alpm         
-gmp                                            6.3.0-1         alpm         
+glibc                                          2.39-2          alpm         
+gmp                                            6.3.0-2         alpm         
 gnu-netcat                                     0.7.1-9         alpm         
 gnupg                                          2.4.5-1         alpm         
 gnutls                                         3.8.5-1         alpm         
 gpgme                                          1.23.2-1        alpm         
 grep                                           3.11-1          alpm         
 gzip                                           1.13-2          alpm         
-iana-etc                                       20240222-1      alpm         
+iana-etc                                       20240412-1      alpm         
 icu                                            74.2-2          alpm         
 jq                                             1.7.1-1         alpm         
 json-c                                         0.17-1          alpm         
@@ -44,7 +44,7 @@ less                                           1:643-2         alpm
 libarchive                                     3.7.3-1         alpm         
 libassuan                                      2.5.7-2         alpm         
 libcap                                         2.69-4          alpm         
-libcap-ng                                      0.8.4-1         alpm         
+libcap-ng                                      0.8.5-1         alpm         
 libevent                                       2.1.12-4        alpm         
 libffi                                         3.4.6-1         alpm         
 libgcrypt                                      1.10.3-1        alpm         
@@ -89,7 +89,7 @@ procps-ng                                      4.0.4-3         alpm
 readline                                       8.2.010-1       alpm         
 sed                                            4.9-3           alpm         
 shadow                                         4.15.1-2        alpm         
-sqlite                                         3.45.2-1        alpm         
+sqlite                                         3.45.3-1        alpm         
 stdlib                                         go1.22.1        go-module    
 systemd-libs                                   255.4-2         alpm         
 tar                                            1.35-2          alpm         
