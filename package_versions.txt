@@ -41,7 +41,7 @@ kernel.org/pub/linux/libs/security/libcap/psx  v1.2.69         go-module
 keyutils                                       1.6.3-2         alpm         
 krb5                                           1.21.2-2        alpm         
 less                                           1:643-2         alpm         
-libarchive                                     3.7.3-1         alpm         
+libarchive                                     3.7.3-3         alpm         
 libassuan                                      2.5.7-2         alpm         
 libcap                                         2.69-4          alpm         
 libcap-ng                                      0.8.5-1         alpm         
@@ -51,7 +51,7 @@ libgcrypt                                      1.10.3-1        alpm
 libgpg-error                                   1.48-1          alpm         
 libidn2                                        2.3.7-1         alpm         
 libksba                                        1.6.6-1         alpm         
-libldap                                        2.6.7-1         alpm         
+libldap                                        2.6.7-2         alpm         
 libnghttp2                                     1.61.0-1        alpm         
 libnghttp3                                     1.2.0-1         alpm         
 libnsl                                         2.0.1-1         alpm         
@@ -72,7 +72,7 @@ libxml2                                        2.12.6-1        alpm
 linux-api-headers                              6.7-1           alpm         
 lz4                                            1:1.9.4-3       alpm         
 mpfr                                           4.2.1-2         alpm         
-ncurses                                        6.4_20230520-1  alpm         
+ncurses                                        6.4_20230520-2  alpm         
 nettle                                         3.9.1-1         alpm         
 npth                                           1.7-1           alpm         
 oniguruma                                      6.9.9-1         alpm         
