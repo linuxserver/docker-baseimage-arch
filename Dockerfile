@@ -49,6 +49,7 @@ RUN \
     archlinux-keyring \
     bash \
     busybox \
+    catatonit \
     coreutils \
     curl \
     findutils \
