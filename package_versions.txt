@@ -14,7 +14,6 @@ catatonit                                      0.2.0-3                   alpm
 command-line-arguments                         (devel)                   go-module    
 coreutils                                      9.5-1                     alpm         
 curl                                           8.7.1-6                   alpm         
-db5.3                                          5.3.28-5                  alpm         
 e2fsprogs                                      1.47.0-2                  alpm         
 file                                           5.45-1                    alpm         
 filesystem                                     2024.04.07-1              alpm         
@@ -22,11 +21,11 @@ findutils                                      4.9.0-3                   alpm
 gawk                                           5.3.0-1                   alpm         
 gcc-libs                                       14.1.1+r1+g43b730b9134-1  alpm         
 gdbm                                           1.23-2                    alpm         
-gettext                                        0.22.4-1                  alpm         
-glib2                                          2.80.2-1                  alpm         
+gettext                                        0.22.5-1                  alpm         
+glib2                                          2.80.2-2                  alpm         
 glibc                                          2.39+r52+gf8e4623421-1    alpm         
 gmp                                            6.3.0-2                   alpm         
-gnu-netcat                                     0.7.1-9                   alpm         
+gnu-netcat                                     0.7.1-10                  alpm         
 gnupg                                          2.4.5-1                   alpm         
 gnutls                                         3.8.5-1                   alpm         
 gpgme                                          1.23.2-4                  alpm         
@@ -83,7 +82,6 @@ pacman-mirrorlist                              20231001-1                alpm
 pam                                            1.6.1-2                   alpm         
 pambase                                        20230918-1                alpm         
 pcre2                                          10.43-4                   alpm         
-perl                                           5.38.2-1                  alpm         
 pinentry                                       1.3.0-1                   alpm         
 procps-ng                                      4.0.4-3                   alpm         
 readline                                       8.2.010-1                 alpm         
@@ -93,7 +91,6 @@ sqlite                                         3.45.3-1                  alpm
 stdlib                                         go1.22.1                  go-module    
 systemd-libs                                   255.6-1                   alpm         
 tar                                            1.35-2                    alpm         
-texinfo                                        7.1-2                     alpm         
 tpm2-tss                                       4.0.1-1                   alpm         
 tzdata                                         2024a-2                   alpm         
 util-linux                                     2.40.1-1                  alpm         
