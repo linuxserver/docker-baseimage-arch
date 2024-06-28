@@ -46,10 +46,10 @@ libcap                                         2.70-1                     alpm
 libcap-ng                                      0.8.5-2                    alpm         
 libevent                                       2.1.12-4                   alpm         
 libffi                                         3.4.6-1                    alpm         
-libgcrypt                                      1.11.0-1                   alpm         
+libgcrypt                                      1.11.0-2                   alpm         
 libgpg-error                                   1.50-1                     alpm         
 libidn2                                        2.3.7-1                    alpm         
-libksba                                        1.6.6-1                    alpm         
+libksba                                        1.6.7-1                    alpm         
 libldap                                        2.6.7-2                    alpm         
 libnghttp2                                     1.62.1-1                   alpm         
 libnghttp3                                     1.4.0-1                    alpm         
