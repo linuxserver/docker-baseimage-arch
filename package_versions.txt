@@ -39,7 +39,7 @@ kernel.org/pub/linux/libs/security/libcap/cap  v1.2.70                    go-mod
 kernel.org/pub/linux/libs/security/libcap/psx  v1.2.70                    go-module    
 keyutils                                       1.6.3-2                    alpm         
 krb5                                           1.21.3-1                   alpm         
-less                                           1:643-2                    alpm         
+less                                           1:661-1                    alpm         
 libarchive                                     3.7.4-1                    alpm         
 libassuan                                      2.5.7-2                    alpm         
 libcap                                         2.70-1                     alpm         
@@ -79,7 +79,7 @@ oniguruma                                      6.9.9-1                    alpm
 openssl                                        3.3.1-1                    alpm         
 p11-kit                                        0.25.5-1                   alpm         
 pacman                                         6.1.0-3                    alpm         
-pacman-mirrorlist                              20231001-1                 alpm         
+pacman-mirrorlist                              20240717-1                 alpm         
 pam                                            1.6.1-2                    alpm         
 pambase                                        20230918-1                 alpm         
 pcre2                                          10.44-1                    alpm         
