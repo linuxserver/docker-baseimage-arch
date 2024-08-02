@@ -8,7 +8,7 @@ brotli                                         1.1.0-2                     alpm
 busybox                                        1.36.1-2                    alpm         
 bzip2                                          1.0.8-6                     alpm         
 ca-certificates                                20240618-1                  alpm         
-ca-certificates-mozilla                        3.102-1                     alpm         
+ca-certificates-mozilla                        3.102.1-1                   alpm         
 ca-certificates-utils                          20240618-1                  alpm         
 catatonit                                      0.2.0-3                     alpm         
 command-line-arguments                         (devel)                     go-module    
@@ -70,7 +70,7 @@ libxcrypt                                      4.4.36-2                    alpm
 libxml2                                        2.13.3-1                    alpm         
 linux-api-headers                              6.10-1                      alpm         
 lmdb                                           0.9.32-1                    alpm         
-lz4                                            1:1.9.4-3                   alpm         
+lz4                                            1:1.10.0-2                  alpm         
 mpfr                                           4.2.1-4                     alpm         
 ncurses                                        6.5-3                       alpm         
 nettle                                         3.10-1                      alpm         
