@@ -114,7 +114,6 @@ ENV PS1="$(whoami)@$(hostname):$(pwd)\\$ " \
 
 RUN \
   echo "**** create abc user and make our folders ****" && \
-  groupadd -g 1000 users && \
   useradd -u 911 -U -d /config -s /bin/false abc && \
   usermod -G users abc && \
   mkdir -p \
