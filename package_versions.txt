@@ -51,7 +51,7 @@ keyutils                                       1.6.3-3                      alpm
 kmod                                           33-3                         alpm         
 krb5                                           1.21.3-1                     alpm         
 less                                           1:661-1                      alpm         
-libarchive                                     3.7.5-1                      alpm         
+libarchive                                     3.7.6-1                      alpm         
 libassuan                                      3.0.0-1                      alpm         
 libcap                                         2.70-1                       alpm         
 libcap-ng                                      0.8.5-2                      alpm         
