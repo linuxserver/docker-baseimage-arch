@@ -4,7 +4,7 @@ archlinux-keyring                              20240709-2                   alpm
 argon2                                         20190702-6                   alpm         
 attr                                           2.5.2-1                      alpm         
 audit                                          4.0.2-2                      alpm         
-bash                                           5.2.032-2                    alpm         
+bash                                           5.2.037-1                    alpm         
 brotli                                         1.1.0-2                      alpm         
 busybox                                        1.36.1-2                     alpm         
 bzip2                                          1.0.8-6                      alpm         
