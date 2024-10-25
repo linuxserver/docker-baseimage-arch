@@ -15,7 +15,7 @@ catatonit                                      0.2.0-3                      alpm
 command-line-arguments                         (devel)                      go-module    
 coreutils                                      9.5-2                        alpm         
 cryptsetup                                     2.7.5-1                      alpm         
-curl                                           8.10.1-1                     alpm         
+curl                                           8.10.1-2                     alpm         
 dbus                                           1.14.10-2                    alpm         
 dbus-broker                                    36-4                         alpm         
 dbus-broker-units                              36-4                         alpm         
@@ -30,11 +30,11 @@ gawk                                           5.3.1-1                      alpm
 gcc-libs                                       14.2.1+r134+gab884fffe3fc-1  alpm         
 gdbm                                           1.24-1                       alpm         
 gettext                                        0.22.5-2                     alpm         
-glib2                                          2.82.1-2                     alpm         
+glib2                                          2.82.2-1                     alpm         
 glibc                                          2.40+r16+gaa533d58ff-2       alpm         
 gmp                                            6.3.0-2                      alpm         
 gnu-netcat                                     0.7.1-10                     alpm         
-gnupg                                          2.4.5-5                      alpm         
+gnupg                                          2.4.5-6                      alpm         
 gnutls                                         3.8.7-1                      alpm         
 gpgme                                          1.23.2-6                     alpm         
 grep                                           3.11-1                       alpm         
@@ -55,7 +55,7 @@ libarchive                                     3.7.7-1                      alpm
 libassuan                                      3.0.0-1                      alpm         
 libcap                                         2.70-1                       alpm         
 libcap-ng                                      0.8.5-2                      alpm         
-libelf                                         0.191-4                      alpm         
+libelf                                         0.192-1                      alpm         
 libevent                                       2.1.12-4                     alpm         
 libffi                                         3.4.6-1                      alpm         
 libgcrypt                                      1.11.0-2                     alpm         
@@ -63,7 +63,7 @@ libgpg-error                                   1.50-1                       alpm
 libidn2                                        2.3.7-1                      alpm         
 libksba                                        1.6.7-1                      alpm         
 libldap                                        2.6.8-2                      alpm         
-libnghttp2                                     1.63.0-1                     alpm         
+libnghttp2                                     1.64.0-1                     alpm         
 libnghttp3                                     1.6.0-1                      alpm         
 libnsl                                         2.0.1-1                      alpm         
 libp11-kit                                     0.25.5-1                     alpm         
@@ -74,7 +74,7 @@ libsecret                                      0.21.4-1                     alpm
 libssh2                                        1.11.0-1                     alpm         
 libsysprof-capture                             47.0-1                       alpm         
 libtasn1                                       4.19.0-2                     alpm         
-libtirpc                                       1.3.5-1                      alpm         
+libtirpc                                       1.3.6-1                      alpm         
 libunistring                                   1.2-1                        alpm         
 libusb                                         1.0.27-1                     alpm         
 libverto                                       0.3.2-5                      alpm         
@@ -88,7 +88,7 @@ ncurses                                        6.5-3                        alpm
 nettle                                         3.10-1                       alpm         
 npth                                           1.7-1                        alpm         
 oniguruma                                      6.9.9-1                      alpm         
-openssl                                        3.3.2-1                      alpm         
+openssl                                        3.4.0-1                      alpm         
 p11-kit                                        0.25.5-1                     alpm         
 pacman                                         7.0.0.r3.g7736133-1          alpm         
 pacman-mirrorlist                              20240717-1                   alpm         
@@ -106,7 +106,7 @@ stdlib                                         go1.22.3                     go-m
 systemd                                        256.7-1                      alpm         
 systemd-libs                                   256.7-1                      alpm         
 tar                                            1.35-2                       alpm         
-tpm2-tss                                       4.0.1-1                      alpm         
+tpm2-tss                                       4.1.3-1                      alpm         
 tzdata                                         2024b-2                      alpm         
 util-linux                                     2.40.2-1                     alpm         
 util-linux-libs                                2.40.2-1                     alpm         
