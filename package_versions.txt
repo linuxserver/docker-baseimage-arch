@@ -59,7 +59,7 @@ libelf                                         0.192-2                      alpm
 libevent                                       2.1.12-4                     alpm         
 libffi                                         3.4.6-1                      alpm         
 libgcrypt                                      1.11.0-2                     alpm         
-libgpg-error                                   1.50-1                       alpm         
+libgpg-error                                   1.51-1                       alpm         
 libidn2                                        2.3.7-1                      alpm         
 libksba                                        1.6.7-1                      alpm         
 libldap                                        2.6.8-2                      alpm         
@@ -79,7 +79,7 @@ libunistring                                   1.2-1                        alpm
 libusb                                         1.0.27-1                     alpm         
 libverto                                       0.3.2-5                      alpm         
 libxcrypt                                      4.4.36-2                     alpm         
-libxml2                                        2.13.4-1                     alpm         
+libxml2                                        2.13.5-1                     alpm         
 linux-api-headers                              6.10-1                       alpm         
 lmdb                                           0.9.33-1                     alpm         
 lz4                                            1:1.10.0-2                   alpm         
@@ -103,8 +103,8 @@ sed                                            4.9-3                        alpm
 shadow                                         4.16.0-1                     alpm         
 sqlite                                         3.46.1-1                     alpm         
 stdlib                                         go1.23.2                     go-module    
-systemd                                        256.7-1                      alpm         
-systemd-libs                                   256.7-1                      alpm         
+systemd                                        256.8-1                      alpm         
+systemd-libs                                   256.8-1                      alpm         
 tar                                            1.35-2                       alpm         
 tpm2-tss                                       4.1.3-1                      alpm         
 tzdata                                         2024b-2                      alpm         
