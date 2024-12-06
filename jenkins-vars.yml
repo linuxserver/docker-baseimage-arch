@@ -7,6 +7,8 @@ custom_version_command: "echo $(date +%F)"
 release_type: stable
 release_tag: latest
 ls_branch: master
+image_sbom: true
+image_provenance: true
 repo_vars:
   - BUILD_VERSION_ARG = 'OS'
   - LS_USER = 'linuxserver'
