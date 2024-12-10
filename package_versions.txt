@@ -23,7 +23,7 @@ dbus-units                                     36-4                         alpm
 device-mapper                                  2.03.28-1                    alpm         
 e2fsprogs                                      1.47.1-4                     alpm         
 expat                                          2.6.4-1                      alpm         
-file                                           5.46-1                       alpm         
+file                                           5.46-2                       alpm         
 filesystem                                     2024.11.21-1                 alpm         
 findutils                                      4.10.0-2                     alpm         
 gawk                                           5.3.1-1                      alpm         
@@ -40,7 +40,7 @@ gpgme                                          1.24.1-1                     alpm
 grep                                           3.11-1                       alpm         
 gzip                                           1.13-4                       alpm         
 hwdata                                         0.390-1                      alpm         
-iana-etc                                       20241016-1                   alpm         
+iana-etc                                       20241206-1                   alpm         
 icu                                            75.1-1                       alpm         
 jq                                             1.7.1-2                      alpm         
 json-c                                         0.18-1                       alpm         
@@ -101,7 +101,7 @@ procps-ng                                      4.0.4-3                      alpm
 readline                                       8.2.013-1                    alpm         
 sed                                            4.9-3                        alpm         
 shadow                                         4.16.0-1                     alpm         
-sqlite                                         3.47.1-2                     alpm         
+sqlite                                         3.47.2-1                     alpm         
 stdlib                                         go1.23.2                     go-module    
 systemd                                        256.9-1                      alpm         
 systemd-libs                                   256.9-1                      alpm         
