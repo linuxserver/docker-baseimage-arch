@@ -11,7 +11,7 @@ bzip2                                          1.0.8-6                      alpm
 ca-certificates                                20240618-1                   alpm         
 ca-certificates-mozilla                        3.107-1                      alpm         
 ca-certificates-utils                          20240618-1                   alpm         
-catatonit                                      0.2.0-3                      alpm         
+catatonit                                      0.2.1-1                      alpm         
 command-line-arguments                         (devel)                      go-module    
 coreutils                                      9.5-2                        alpm         
 cryptsetup                                     2.7.5-1                      alpm         
@@ -44,7 +44,7 @@ iana-etc                                       20241206-1                   alpm
 icu                                            75.1-1                       alpm         
 jq                                             1.7.1-2                      alpm         
 json-c                                         0.18-1                       alpm         
-kbd                                            2.7-1                        alpm         
+kbd                                            2.7.1-1                      alpm         
 kernel.org/pub/linux/libs/security/libcap/cap  v1.2.71                      go-module    
 kernel.org/pub/linux/libs/security/libcap/psx  v1.2.71                      go-module    
 keyutils                                       1.6.3-3                      alpm         
