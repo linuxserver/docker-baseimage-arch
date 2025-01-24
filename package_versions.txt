@@ -1,6 +1,6 @@
 NAME                                           VERSION                      TYPE        
 acl                                            2.3.2-1                      alpm         
-archlinux-keyring                              20241203-1                   alpm         
+archlinux-keyring                              20250123-1                   alpm         
 attr                                           2.5.2-1                      alpm         
 audit                                          4.0.3-1                      alpm         
 bash                                           5.2.037-1                    alpm         
@@ -12,7 +12,7 @@ ca-certificates-mozilla                        3.107-1                      alpm
 ca-certificates-utils                          20240618-1                   alpm         
 catatonit                                      0.2.1-1                      alpm         
 command-line-arguments                         (devel)                      go-module    
-coreutils                                      9.5-2                        alpm         
+coreutils                                      9.6-2                        alpm         
 cryptsetup                                     2.7.5-2                      alpm         
 curl                                           8.11.1-3                     alpm         
 dbus                                           1.16.0-1                     alpm         
@@ -30,7 +30,7 @@ gcc-libs                                       14.2.1+r134+gab884fffe3fc-2  alpm
 gdbm                                           1.24-1                       alpm         
 gettext                                        0.23.1-2                     alpm         
 glib2                                          2.82.4-2                     alpm         
-glibc                                          2.40+r16+gaa533d58ff-2       alpm         
+glibc                                          2.40+r66+g7d4b6bcae91f-1     alpm         
 gmp                                            6.3.0-2                      alpm         
 gnu-netcat                                     0.7.1-10                     alpm         
 gnulib-l10n                                    20241231-1                   alpm         
@@ -70,7 +70,7 @@ libp11-kit                                     0.25.5-1                     alpm
 libpsl                                         0.21.5-2                     alpm         
 libsasl                                        2.1.28-5                     alpm         
 libseccomp                                     2.5.5-4                      alpm         
-libsecret                                      0.21.4-1                     alpm         
+libsecret                                      0.21.6-1                     alpm         
 libssh2                                        1.11.1-1                     alpm         
 libsysprof-capture                             47.2-1                       alpm         
 libtasn1                                       4.19.0-2                     alpm         
