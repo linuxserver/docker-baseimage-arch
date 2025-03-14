@@ -3,7 +3,7 @@ acl                                            2.3.2-1                      alpm
 archlinux-keyring                              20250123-1                   alpm         
 attr                                           2.5.2-1                      alpm         
 audit                                          4.0.3-1                      alpm         
-bash                                           5.2.037-1                    alpm         
+bash                                           5.2.037-2                    alpm         
 brotli                                         1.1.0-3                      alpm         
 busybox                                        1.36.1-2                     alpm         
 bzip2                                          1.0.8-6                      alpm         
@@ -29,7 +29,7 @@ gawk                                           5.3.1-2                      alpm
 gcc-libs                                       14.2.1+r753+g1cd744a6828f-1  alpm         
 gdbm                                           1.24-2                       alpm         
 gettext                                        0.24-1                       alpm         
-glib2                                          2.82.5-1                     alpm         
+glib2                                          2.84.0-1                     alpm         
 glibc                                          2.41+r9+ga900dbaf70f0-1      alpm         
 gmp                                            6.3.0-2                      alpm         
 gnu-netcat                                     0.7.1-10                     alpm         
@@ -45,16 +45,16 @@ icu                                            76.1-1                       alpm
 jq                                             1.7.1-2                      alpm         
 json-c                                         0.18-1                       alpm         
 kbd                                            2.7.1-2                      alpm         
-kernel.org/pub/linux/libs/security/libcap/cap  v1.2.71                      go-module    
-kernel.org/pub/linux/libs/security/libcap/psx  v1.2.71                      go-module    
+kernel.org/pub/linux/libs/security/libcap/cap  v1.2.75                      go-module    
+kernel.org/pub/linux/libs/security/libcap/psx  v1.2.75                      go-module    
 keyutils                                       1.6.3-3                      alpm         
 kmod                                           34.1-1                       alpm         
 krb5                                           1.21.3-1                     alpm         
 leancrypto                                     1.2.0-2                      alpm         
 less                                           1:668-1                      alpm         
-libarchive                                     3.7.7-1                      alpm         
+libarchive                                     3.7.7-2                      alpm         
 libassuan                                      3.0.0-1                      alpm         
-libcap                                         2.71-1                       alpm         
+libcap                                         2.75-1                       alpm         
 libcap-ng                                      0.8.5-3                      alpm         
 libelf                                         0.192-4                      alpm         
 libevent                                       2.1.12-4                     alpm         
@@ -92,7 +92,7 @@ oniguruma                                      6.9.10-1                     alpm
 openssl                                        3.4.1-1                      alpm         
 p11-kit                                        0.25.5-1                     alpm         
 pacman                                         7.0.0.r6.gc685ae6-2          alpm         
-pacman-mirrorlist                              20250101-1                   alpm         
+pacman-mirrorlist                              20250311-1                   alpm         
 pam                                            1.7.0-2                      alpm         
 pambase                                        20230918-2                   alpm         
 pcre2                                          10.45-1                      alpm         
@@ -103,7 +103,7 @@ readline                                       8.2.013-1                    alpm
 sed                                            4.9-3                        alpm         
 shadow                                         4.17.3-1                     alpm         
 sqlite                                         3.49.1-1                     alpm         
-stdlib                                         go1.23.2                     go-module    
+stdlib                                         go1.24.1                     go-module    
 systemd                                        257.4-1                      alpm         
 systemd-libs                                   257.4-1                      alpm         
 tar                                            1.35-2                       alpm         
