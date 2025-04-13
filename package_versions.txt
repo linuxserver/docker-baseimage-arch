@@ -14,7 +14,7 @@ catatonit                                      0.2.1-1                      alpm
 command-line-arguments                         (devel)                      go-module    
 coreutils                                      9.7-1                        alpm         
 cryptsetup                                     2.7.5-2                      alpm         
-curl                                           8.13.0-1                     alpm         
+curl                                           8.13.0-2                     alpm         
 dbus                                           1.16.2-1                     alpm         
 dbus-broker                                    36-4                         alpm         
 dbus-broker-units                              36-4                         alpm         
@@ -60,7 +60,7 @@ libelf                                         0.192-4                      alpm
 libevent                                       2.1.12-4                     alpm         
 libffi                                         3.4.7-1                      alpm         
 libgcrypt                                      1.11.0-3                     alpm         
-libgpg-error                                   1.51-1                       alpm         
+libgpg-error                                   1.53-1                       alpm         
 libidn2                                        2.3.7-1                      alpm         
 libksba                                        1.6.7-2                      alpm         
 libldap                                        2.6.9-1                      alpm         
