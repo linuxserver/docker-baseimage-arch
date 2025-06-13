@@ -58,7 +58,7 @@ libcap                                         2.76-1                     alpm
 libcap-ng                                      0.8.5-3                    alpm         
 libelf                                         0.193-2                    alpm         
 libevent                                       2.1.12-4                   alpm         
-libffi                                         3.4.8-1                    alpm         
+libffi                                         3.5.0-1                    alpm         
 libgcrypt                                      1.11.1-1                   alpm         
 libgpg-error                                   1.55-1                     alpm         
 libidn2                                        2.3.7-1                    alpm         
@@ -81,7 +81,7 @@ libusb                                         1.0.29-1                   alpm
 libverto                                       0.3.2-5                    alpm         
 libxcrypt                                      4.4.38-1                   alpm         
 libxml2                                        2.14.3-1                   alpm         
-linux-api-headers                              6.14-1                     alpm         
+linux-api-headers                              6.15-1                     alpm         
 lmdb                                           0.9.33-1                   alpm         
 lz4                                            1:1.10.0-2                 alpm         
 mpfr                                           4.2.2-1                    alpm         
@@ -102,7 +102,7 @@ procps-ng                                      4.0.5-3                    alpm
 readline                                       8.2.013-2                  alpm         
 sed                                            4.9-3                      alpm         
 shadow                                         4.17.4-1                   alpm         
-sqlite                                         3.50.0-1                   alpm         
+sqlite                                         3.50.1-1                   alpm         
 stdlib                                         go1.24.2                   go-module    
 systemd                                        257.6-1                    alpm         
 systemd-libs                                   257.6-1                    alpm         
