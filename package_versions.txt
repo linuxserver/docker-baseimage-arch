@@ -1,6 +1,6 @@
 NAME                                           VERSION                    TYPE        
 acl                                            2.3.2-1                    alpm         
-archlinux-keyring                              20250430.1-1               alpm         
+archlinux-keyring                              20250707-1                 alpm         
 attr                                           2.5.2-1                    alpm         
 audit                                          4.0.5-1                    alpm         
 bash                                           5.2.037-5                  alpm         
@@ -20,7 +20,7 @@ dbus-broker                                    37-2                       alpm
 dbus-broker-units                              37-2                       alpm         
 dbus-units                                     37-2                       alpm         
 device-mapper                                  2.03.33-1                  alpm         
-e2fsprogs                                      1.47.2-2                   alpm         
+e2fsprogs                                      1.47.3-1                   alpm         
 expat                                          2.7.1-1                    alpm         
 file                                           5.46-4                     alpm         
 filesystem                                     2025.05.03-1               alpm         
@@ -28,7 +28,7 @@ findutils                                      4.10.0-3                   alpm
 gawk                                           5.3.2-1                    alpm         
 gcc-libs                                       15.1.1+r7+gf36ec88aa85a-1  alpm         
 gdbm                                           1.25-1                     alpm         
-gettext                                        0.25-1                     alpm         
+gettext                                        0.25.1-1                   alpm         
 glib2                                          2.84.3-1                   alpm         
 glibc                                          2.41+r48+g5cb575ca9a3d-1   alpm         
 gmp                                            6.3.0-2                    alpm         
