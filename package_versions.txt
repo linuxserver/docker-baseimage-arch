@@ -8,12 +8,12 @@ brotli                                         1.1.0-3                     alpm
 busybox                                        1.36.1-2                    alpm         
 bzip2                                          1.0.8-6                     alpm         
 ca-certificates                                20240618-1                  alpm         
-ca-certificates-mozilla                        3.114-1                     alpm         
+ca-certificates-mozilla                        3.115-1                     alpm         
 ca-certificates-utils                          20240618-1                  alpm         
 catatonit                                      0.2.1-2                     alpm         
 command-line-arguments                         UNKNOWN                     go-module    
 coreutils                                      9.7-1                       alpm         
-cryptsetup                                     2.8.0-1                     alpm         
+cryptsetup                                     2.8.1-1                     alpm         
 curl                                           8.15.0-1                    alpm         
 dbus                                           1.16.2-1                    alpm         
 dbus-broker                                    37-2                        alpm         
@@ -27,9 +27,9 @@ filesystem                                     2025.05.03-1                alpm
 findutils                                      4.10.0-3                    alpm         
 gawk                                           5.3.2-1                     alpm         
 gcc-libs                                       15.2.1+r22+gc4e96a094636-1  alpm         
-gdbm                                           1.25-1                      alpm         
+gdbm                                           1.26-1                      alpm         
 gettext                                        0.26-1                      alpm         
-glib2                                          2.84.3-1                    alpm         
+glib2                                          2.84.4-2                    alpm         
 glibc                                          2.42+r17+gd7274d718e6f-1    alpm         
 gmp                                            6.3.0-2                     alpm         
 gnu-netcat                                     0.7.1-11                    alpm         
@@ -39,7 +39,7 @@ gnutls                                         3.8.10-1                    alpm
 gpgme                                          2.0.0-1                     alpm         
 grep                                           3.12-2                      alpm         
 gzip                                           1.14-2                      alpm         
-hwdata                                         0.397-1                     alpm         
+hwdata                                         0.398-1                     alpm         
 iana-etc                                       20250612-1                  alpm         
 icu                                            76.1-1                      alpm         
 jq                                             1.8.1-1                     alpm         
@@ -59,7 +59,7 @@ libcap-ng                                      0.8.5-3                     alpm
 libelf                                         0.193-5                     alpm         
 libevent                                       2.1.12-4                    alpm         
 libffi                                         3.5.1-1                     alpm         
-libgcrypt                                      1.11.1-1                    alpm         
+libgcrypt                                      1.11.2-1                    alpm         
 libgpg-error                                   1.55-1                      alpm         
 libidn2                                        2.3.7-1                     alpm         
 libksba                                        1.6.7-2                     alpm         
