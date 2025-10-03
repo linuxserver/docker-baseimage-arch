@@ -1,6 +1,6 @@
 NAME                                           VERSION                     TYPE        
 acl                                            2.3.2-1                     alpm         
-archlinux-keyring                              20250807.1-1                alpm         
+archlinux-keyring                              20250929-1                  alpm         
 attr                                           2.5.2-1                     alpm         
 audit                                          4.0.5-1                     alpm         
 bash                                           5.3.3-2                     alpm         
@@ -12,7 +12,7 @@ ca-certificates-mozilla                        3.116-1                     alpm
 ca-certificates-utils                          20240618-1                  alpm         
 catatonit                                      0.2.1-2                     alpm         
 command-line-arguments                         UNKNOWN                     go-module    
-coreutils                                      9.7-1                       alpm         
+coreutils                                      9.8-2                       alpm         
 cryptsetup                                     2.8.1-1                     alpm         
 curl                                           8.16.0-1                    alpm         
 dbus                                           1.16.2-1                    alpm         
@@ -35,7 +35,7 @@ gmp                                            6.3.0-2                     alpm
 gnulib-l10n                                    20241231-1                  alpm         
 gnupg                                          2.4.8-1                     alpm         
 gnutls                                         3.8.10-1                    alpm         
-gpgme                                          2.0.0-1                     alpm         
+gpgme                                          2.0.1-1                     alpm         
 grep                                           3.12-2                      alpm         
 gzip                                           1.14-2                      alpm         
 hwdata                                         0.399-1                     alpm         
@@ -91,7 +91,7 @@ nettle                                         3.10.2-1                    alpm
 npth                                           1.8-1                       alpm         
 oniguruma                                      6.9.10-1                    alpm         
 openbsd-netcat                                 1.229_1-2                   alpm         
-openssl                                        3.5.3-1                     alpm         
+openssl                                        3.5.4-1                     alpm         
 p11-kit                                        0.25.9-1                    alpm         
 pacman                                         7.0.0.r6.gc685ae6-6         alpm         
 pacman-mirrorlist                              20250702-2                  alpm         
