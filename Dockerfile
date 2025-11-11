@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM alpine:3 as rootfs-stage
+FROM alpine:3 AS rootfs-stage
 
 ARG ARCH_VERSION
 
@@ -34,7 +34,7 @@ RUN \
     /root-out
 
 # pacstrap stage
-FROM scratch as pacstrap-stage
+FROM scratch AS pacstrap-stage
 COPY --from=rootfs-stage /root-out/ /
 
 RUN \
@@ -72,7 +72,7 @@ RUN \
   rm /root-out/var/lib/pacman/sync/*
 
 # set version for s6 overlay
-ARG S6_OVERLAY_VERSION="3.2.0.2"
+ARG S6_OVERLAY_VERSION="3.2.1.0"
 ARG S6_OVERLAY_ARCH="x86_64"
 
 # add s6 overlay
