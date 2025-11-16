@@ -1,41 +1,7 @@
 # syntax=docker/dockerfile:1
 
-FROM alpine:3 AS rootfs-stage
-
-ARG ARCH_VERSION
-
-# install packages
-RUN \
-  apk add --no-cache \
-    bash \
-    curl \
-    jq \
-    tar \
-    tzdata \
-    xz \
-    zstd
-
-# grab latest rootfs
-RUN \
-  echo "**** grab download URL ****" && \
-  if [ -z ${ARCH_VERSION+x} ]; then \
-    ARCH_VERSION=$(curl -sL https://gitlab.archlinux.org/api/v4/projects/10185/releases \
-    | jq -r '.[0].tag_name' | sed 's/^v//g'); \
-  fi && \
-  PACK_ID=$(curl -sL https://gitlab.archlinux.org/api/v4/projects/10185/packages?sort=desc | jq -r '.[] | select(.version == "'${ARCH_VERSION}'") | .id') && \
-  TAR_ID=$(curl -sL https://gitlab.archlinux.org/api/v4/projects/10185/packages/${PACK_ID}/package_files | jq '.[] | select(.file_name == "base-'${ARCH_VERSION}'.tar.zst") | .id') && \
-  echo "**** download/extract rootfs ****" && \
-  curl -o \
-    /rootfs.tar.zst -L \
-    https://gitlab.archlinux.org/archlinux/archlinux-docker/-/package_files/${TAR_ID}/download && \
-  mkdir /root-out && \
-  tar xf \
-    /rootfs.tar.zst -C \
-    /root-out
-
 # pacstrap stage
-FROM scratch AS pacstrap-stage
-COPY --from=rootfs-stage /root-out/ /
+FROM archlinux:base AS pacstrap-stage
 
 RUN \
   mkdir -m 0755 -p \
