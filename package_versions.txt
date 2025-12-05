@@ -3,7 +3,7 @@ acl                                            2.3.2-1                      alpm
 archlinux-keyring                              20251116-1                   alpm         
 attr                                           2.5.2-1                      alpm         
 audit                                          4.1.2-1                      alpm         
-bash                                           5.3.3-2                      alpm         
+bash                                           5.3.8-1                      alpm         
 brotli                                         1.1.0-3                      alpm         
 busybox                                        1.36.1-2                     alpm         
 bzip2                                          1.0.8-6                      alpm         
@@ -51,7 +51,7 @@ kmod                                           34.2-1                       alpm
 krb5                                           1.21.3-2                     alpm         
 leancrypto                                     1.6.0-1                      alpm         
 less                                           1:685-1                      alpm         
-libarchive                                     3.8.3-1                      alpm         
+libarchive                                     3.8.4-1                      alpm         
 libassuan                                      3.0.0-1                      alpm         
 libbsd                                         0.12.2-2                     alpm         
 libcap                                         2.77-1                       alpm         
@@ -104,7 +104,7 @@ procps-ng                                      4.0.5-3                      alpm
 readline                                       8.3.001-1                    alpm         
 sed                                            4.9-3                        alpm         
 shadow                                         4.18.0-1                     alpm         
-sqlite                                         3.51.0-1                     alpm         
+sqlite                                         3.51.1-1                     alpm         
 stdlib                                         go1.25.3                     go-module    
 systemd                                        258.2-2                      alpm         
 systemd-libs                                   258.2-2                      alpm         
