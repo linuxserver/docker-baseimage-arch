@@ -34,6 +34,7 @@ RUN \
     /root-out/tmp && \
   mkdir -m 0555 -p \
     /root-out/{sys,proc} && \
+  sed -i 's/DownloadUser = alpm//g' /etc/pacman.conf && \
   pacman-key --init && \
   pacman-key --populate archlinuxarm && \
   pacman -r /root-out -Sy --noconfirm \
