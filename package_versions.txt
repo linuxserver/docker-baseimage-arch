@@ -14,7 +14,7 @@ ca-certificates-utils                          20240618-1                   alpm
 catatonit                                      0.2.1-2                      alpm         
 command-line-arguments                         UNKNOWN                      go-module    
 coreutils                                      9.9-1                        alpm         
-cryptsetup                                     2.8.1-1                      alpm         
+cryptsetup                                     2.8.3-1                      alpm         
 curl                                           8.17.0-2                     alpm         
 dbus                                           1.16.2-1                     alpm         
 dbus-broker                                    37-2                         alpm         
