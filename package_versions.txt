@@ -34,13 +34,13 @@ glib2                                          2.86.3-1                     alpm
 glibc                                          2.42+r33+gde1fe81f4714-1     alpm         
 gmp                                            6.3.0-2                      alpm         
 gnulib-l10n                                    20241231-1                   alpm         
-gnupg                                          2.4.8-4                      alpm         
+gnupg                                          2.4.9-1                      alpm         
 gnutls                                         3.8.11-2                     alpm         
 gpgme                                          2.0.1-1                      alpm         
 grep                                           3.12-2                       alpm         
 gzip                                           1.14-2                       alpm         
 hwdata                                         0.402-1                      alpm         
-iana-etc                                       20251120-1                   alpm         
+iana-etc                                       20251215-1                   alpm         
 icu                                            78.1-1                       alpm         
 jansson                                        2.14.1-1                     alpm         
 jq                                             1.8.1-1                      alpm         
@@ -69,7 +69,7 @@ libldap                                        2.6.10-2                     alpm
 libmakepkg-dropins                             18-1                         alpm         
 libmd                                          1.1.0-2                      alpm         
 libnghttp2                                     1.68.0-1                     alpm         
-libnghttp3                                     1.13.1-1                     alpm         
+libnghttp3                                     1.14.0-1                     alpm         
 libnsl                                         2.0.1-1                      alpm         
 libp11-kit                                     0.25.10-2                    alpm         
 libpsl                                         0.21.5-2                     alpm         
