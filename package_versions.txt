@@ -1,6 +1,6 @@
 NAME                                           VERSION                      TYPE        
 acl                                            2.3.2-1                      alpm         
-archlinux-keyring                              20251116-1                   alpm         
+archlinux-keyring                              20260107-1                   alpm         
 attr                                           2.5.2-1                      alpm         
 audit                                          4.1.2-1                      alpm         
 bash                                           5.3.9-1                      alpm         
@@ -15,7 +15,7 @@ catatonit                                      0.2.1-2                      alpm
 command-line-arguments                         UNKNOWN                      go-module    
 coreutils                                      9.9-1                        alpm         
 cryptsetup                                     2.8.3-1                      alpm         
-curl                                           8.17.0-2                     alpm         
+curl                                           8.18.0-2                     alpm         
 dbus                                           1.16.2-1                     alpm         
 dbus-broker                                    37-2                         alpm         
 dbus-broker-units                              37-2                         alpm         
@@ -53,7 +53,7 @@ kmod                                           34.2-1                       alpm
 krb5                                           1.21.3-2                     alpm         
 leancrypto                                     1.6.0-1                      alpm         
 less                                           1:685-1                      alpm         
-libarchive                                     3.8.4-1                      alpm         
+libarchive                                     3.8.5-1                      alpm         
 libassuan                                      3.0.0-1                      alpm         
 libbsd                                         0.12.2-2                     alpm         
 libcap                                         2.77-1                       alpm         
@@ -70,6 +70,7 @@ libmakepkg-dropins                             18-1                         alpm
 libmd                                          1.1.0-2                      alpm         
 libnghttp2                                     1.68.0-1                     alpm         
 libnghttp3                                     1.14.0-1                     alpm         
+libngtcp2                                      1.19.0-1                     alpm         
 libnsl                                         2.0.1-1                      alpm         
 libp11-kit                                     0.25.10-2                    alpm         
 libpsl                                         0.21.5-2                     alpm         
@@ -109,8 +110,8 @@ sed                                            4.9-3                        alpm
 shadow                                         4.18.0-1                     alpm         
 sqlite                                         3.51.1-1                     alpm         
 stdlib                                         go1.25.3                     go-module    
-systemd                                        259-1                        alpm         
-systemd-libs                                   259-1                        alpm         
+systemd                                        259-2                        alpm         
+systemd-libs                                   259-2                        alpm         
 tar                                            1.35-2                       alpm         
 tpm2-tss                                       4.1.3-1                      alpm         
 tzdata                                         2025c-1                      alpm         
