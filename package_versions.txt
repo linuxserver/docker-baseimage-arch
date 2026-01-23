@@ -31,7 +31,7 @@ gcc-libs                                       15.2.1+r447+g6a64f6c3ebb8-1  alpm
 gdbm                                           1.26-2                       alpm         
 gettext                                        0.26-1                       alpm         
 glib2                                          2.86.3-2                     alpm         
-glibc                                          2.42+r47+ga1d3294a5bed-1     alpm         
+glibc                                          2.42+r51+gcbf39c26b258-1     alpm         
 gmp                                            6.3.0-2                      alpm         
 gnulib-l10n                                    20241231-1                   alpm         
 gnupg                                          2.4.9-1                      alpm         
@@ -59,7 +59,7 @@ libbsd                                         0.12.2-2                     alpm
 libcap                                         2.77-1                       alpm         
 libcap-ng                                      0.9-1                        alpm         
 libelf                                         0.194-1                      alpm         
-libevent                                       2.1.12-4                     alpm         
+libevent                                       2.1.12-5                     alpm         
 libffi                                         3.5.2-1                      alpm         
 libgcrypt                                      1.11.2-1                     alpm         
 libgpg-error                                   1.58-1                       alpm         
@@ -69,10 +69,10 @@ libldap                                        2.6.10-2                     alpm
 libmakepkg-dropins                             18-1                         alpm         
 libmd                                          1.1.0-2                      alpm         
 libnghttp2                                     1.68.0-1                     alpm         
-libnghttp3                                     1.14.0-1                     alpm         
-libngtcp2                                      1.19.0-1                     alpm         
+libnghttp3                                     1.15.0-1                     alpm         
+libngtcp2                                      1.20.0-1                     alpm         
 libnsl                                         2.0.1-1                      alpm         
-libp11-kit                                     0.25.10-2                    alpm         
+libp11-kit                                     0.26.1-1                     alpm         
 libpsl                                         0.21.5-2                     alpm         
 libsasl                                        2.1.28-5                     alpm         
 libseccomp                                     2.6.0-1                      alpm         
@@ -96,9 +96,9 @@ npth                                           1.8-1                        alpm
 oniguruma                                      6.9.10-1                     alpm         
 openbsd-netcat                                 1.234_1-1                    alpm         
 openssl                                        3.6.0-1                      alpm         
-p11-kit                                        0.25.10-2                    alpm         
-pacman                                         7.1.0.r7.gb9f7d4a-1          alpm         
-pacman-mirrorlist                              20251021-1                   alpm         
+p11-kit                                        0.26.1-1                     alpm         
+pacman                                         7.1.0.r9.g54d9411-1          alpm         
+pacman-mirrorlist                              20260105-1                   alpm         
 pam                                            1.7.1-1                      alpm         
 pambase                                        20250719-1                   alpm         
 pcre2                                          10.47-1                      alpm         
