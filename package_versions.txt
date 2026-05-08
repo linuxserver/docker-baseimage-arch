@@ -63,7 +63,7 @@ libffi                                         3.5.2-1                     alpm
 libgcc                                         16.1.1+r12+g301eb08fa2c5-1  alpm         
 libgcrypt                                      1.12.2-1                    alpm         
 libgomp                                        16.1.1+r12+g301eb08fa2c5-1  alpm         
-libgpg-error                                   1.60-1                      alpm         
+libgpg-error                                   1.61-1                      alpm         
 libidn2                                        2.3.8-1                     alpm         
 libksba                                        1.6.8-1                     alpm         
 libldap                                        2.6.13-1                    alpm         
