@@ -39,7 +39,7 @@ gpgme                                          2.1.0-1                     alpm
 grep                                           3.12-2                      alpm         
 gzip                                           1.14-2                      alpm         
 hwdata                                         0.407-1                     alpm         
-iana-etc                                       20260425-1                  alpm         
+iana-etc                                       20260511-1                  alpm         
 icu                                            78.3-1                      alpm         
 jansson                                        2.15.0-1                    alpm         
 jq                                             1.8.1-3                     alpm         
@@ -49,7 +49,7 @@ kernel.org/pub/linux/libs/security/libcap/cap  v1.2.78                     go-mo
 kernel.org/pub/linux/libs/security/libcap/psx  v1.2.78                     go-module    
 keyutils                                       1.6.3-4                     alpm         
 kmod                                           34.2-1                      alpm         
-krb5                                           1.21.3-2                    alpm         
+krb5                                           1.22.2-1                    alpm         
 leancrypto                                     1.7.2-1                     alpm         
 less                                           1:692-1                     alpm         
 libarchive                                     3.8.7-1                     alpm         
@@ -96,7 +96,7 @@ ncurses                                        6.6-2                       alpm
 nettle                                         4.0-1                       alpm         
 npth                                           1.8-1                       alpm         
 oniguruma                                      6.9.10-1                    alpm         
-openbsd-netcat                                 1.234_2-1                   alpm         
+openbsd-netcat                                 1.238_1-1                   alpm         
 openssl                                        3.6.2-2                     alpm         
 p11-kit                                        0.26.2-1                    alpm         
 pacman                                         7.1.0.r9.g54d9411-2         alpm         
@@ -112,8 +112,8 @@ sed                                            4.10-1                      alpm
 shadow                                         4.18.0-1                    alpm         
 sqlite                                         3.53.1-1                    alpm         
 stdlib                                         go1.26.1-X:nodwarf5         go-module    
-systemd                                        260.1-2                     alpm         
-systemd-libs                                   260.1-2                     alpm         
+systemd                                        260.2-2                     alpm         
+systemd-libs                                   260.2-2                     alpm         
 tar                                            1.35-2                      alpm         
 tpm2-tss                                       4.1.3-1                     alpm         
 tzdata                                         2026b-1                     alpm         
