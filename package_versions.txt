@@ -1,6 +1,6 @@
 NAME                                           VERSION                     TYPE        
 acl                                            2.3.2-2                     alpm         
-archlinux-keyring                              20260420-1                  alpm         
+archlinux-keyring                              20260612-1                  alpm         
 attr                                           2.5.2-2                     alpm         
 audit                                          4.1.4-2                     alpm         
 bash                                           5.3.15-1                    alpm         
