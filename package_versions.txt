@@ -38,7 +38,7 @@ gnutls                                         3.8.13-2                     alpm
 gpgme                                          2.1.2-1                      alpm         
 grep                                           3.12-2                       alpm         
 gzip                                           1.14-2                       alpm         
-hwdata                                         0.409-1                      alpm         
+hwdata                                         0.410-1                      alpm         
 iana-etc                                       20260530-1                   alpm         
 icu                                            78.3-1                       alpm         
 jansson                                        2.15.0-1                     alpm         
@@ -78,7 +78,7 @@ libpsl                                         0.21.5-2                     alpm
 libsasl                                        2.1.28-5                     alpm         
 libseccomp                                     2.6.0-1                      alpm         
 libsecret                                      0.21.7-1                     alpm         
-libssh2                                        1.11.1-6                     alpm         
+libssh2                                        1.11.1-7                     alpm         
 libstdc++                                      16.1.1+r595+g171d15ac6959-1  alpm         
 libsysprof-capture                             50.0-4                       alpm         
 libtasn1                                       4.21.0-1                     alpm         
@@ -109,7 +109,7 @@ popt                                           1.19-2                       alpm
 procps-ng                                      4.0.6-3                      alpm         
 readline                                       8.3.003-1                    alpm         
 sed                                            4.10-1                       alpm         
-shadow                                         4.19.4.arch1-1               alpm         
+shadow                                         4.20.0.arch1-1               alpm         
 sqlite                                         3.53.4-1                     alpm         
 stdlib                                         go1.26.1-X:nodwarf5          go-module    
 systemd                                        261.2-1                      alpm         
