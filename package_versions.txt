@@ -77,12 +77,12 @@ libp11-kit                                     0.26.5-1                    alpm
 libpsl                                         0.21.5-2                    alpm         
 libsasl                                        2.1.28-5                    alpm         
 libseccomp                                     2.6.0-1                     alpm         
-libsecret                                      0.21.7-1                    alpm         
+libsecret                                      0.21.8.2-1                  alpm         
 libssh2                                        1.11.1-7                    alpm         
 libstdc++                                      16.2.1+r23+gd564253eb6c8-1  alpm         
 libsysprof-capture                             50.0-6                      alpm         
 libtasn1                                       4.21.0-1                    alpm         
-libtirpc                                       1.3.7-1                     alpm         
+libtirpc                                       1.3.8-1                     alpm         
 libunistring                                   1.4.2-1                     alpm         
 libusb                                         1.0.30-1                    alpm         
 libverto                                       0.3.2-6                     alpm         
@@ -116,7 +116,7 @@ systemd                                        261.3-1                     alpm
 systemd-libs                                   261.3-1                     alpm         
 tar                                            1.35-5                      alpm         
 tpm2-tss                                       4.2.0-2                     alpm         
-tzdata                                         2026c-1                     alpm         
+tzdata                                         2026d-1                     alpm         
 util-linux                                     2.42.3-1                    alpm         
 util-linux-libs                                2.42.3-1                    alpm         
 which                                          2.25-1                      alpm         
