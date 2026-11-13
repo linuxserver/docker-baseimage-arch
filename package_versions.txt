@@ -16,7 +16,7 @@ command-line-arguments                         UNKNOWN                     go-mo
 coreutils                                      9.12-3                      alpm         
 cryptsetup                                     2.8.8-2                     alpm         
 curl                                           8.23.0-2                    alpm         
-dbus                                           1.16.2-2                    alpm         
+dbus                                           1.16.4-1                    alpm         
 dbus-broker                                    37-3                        alpm         
 dbus-broker-units                              37-3                        alpm         
 dbus-units                                     37-3                        alpm         
@@ -73,7 +73,7 @@ libnghttp2                                     1.71.0-1                    alpm
 libnghttp3                                     1.19.0-1                    alpm         
 libngtcp2                                      1.26.0-2                    alpm         
 libnsl                                         2.0.1-2                     alpm         
-libp11-kit                                     0.26.5-1                    alpm         
+libp11-kit                                     0.26.6-1                    alpm         
 libpsl                                         0.21.5-2                    alpm         
 libsasl                                        2.1.28-6                    alpm         
 libseccomp                                     2.6.0-1                     alpm         
@@ -98,7 +98,7 @@ npth                                           1.8-1                       alpm
 oniguruma                                      6.9.10-3                    alpm         
 openbsd-netcat                                 1.239_1-1                   alpm         
 openssl                                        4.1.0-1                     alpm         
-p11-kit                                        0.26.5-1                    alpm         
+p11-kit                                        0.26.6-1                    alpm         
 pacman                                         7.1.0.r9.g54d9411-4         alpm         
 pacman-mirrorlist                              20260610-1                  alpm         
 pam                                            1.7.3-1                     alpm         
