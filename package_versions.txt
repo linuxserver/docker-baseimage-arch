@@ -14,7 +14,7 @@ ca-certificates-utils                          20240618-1                  alpm
 catatonit                                      0.2.1-2                     alpm         
 command-line-arguments                         UNKNOWN                     go-module    
 coreutils                                      9.12-3                      alpm         
-cryptsetup                                     2.8.8-2                     alpm         
+cryptsetup                                     2.8.9-1                     alpm         
 curl                                           8.23.0-2                    alpm         
 dbus                                           1.16.4-1                    alpm         
 dbus-broker                                    37-3                        alpm         
@@ -29,13 +29,13 @@ findutils                                      4.11.0-1                    alpm
 gawk                                           5.4.1-1                     alpm         
 gdbm                                           1.26-2                      alpm         
 gettext                                        1.0-2                       alpm         
-glib2                                          2.90.1-1                    alpm         
+glib2                                          2.90.2-1                    alpm         
 glibc                                          2.44+r78+gfcfb867c58ab-1    alpm         
 gmp                                            6.3.0-3                     alpm         
 gnulib-l10n                                    20241231-1                  alpm         
 gnupg                                          2.4.9-4                     alpm         
-gnutls                                         3.8.13-3                    alpm         
-gpgme                                          2.2.0-1                     alpm         
+gnutls                                         3.8.14-1                    alpm         
+gpgme                                          2.3.1-1                     alpm         
 grep                                           3.12-2                      alpm         
 gzip                                           1.15-1                      alpm         
 hwdata                                         0.412-1                     alpm         
@@ -48,7 +48,7 @@ kbd                                            2.10.0-1                    alpm
 kernel.org/pub/linux/libs/security/libcap/cap  v1.2.78                     go-module    
 kernel.org/pub/linux/libs/security/libcap/psx  v1.2.78                     go-module    
 keyutils                                       1.6.3-4                     alpm         
-kmod                                           34.3-2                      alpm         
+kmod                                           34.4-1                      alpm         
 krb5                                           1.22.2-2                    alpm         
 leancrypto                                     1.9.1-1                     alpm         
 less                                           1:710-1                     alpm         
@@ -76,7 +76,7 @@ libnsl                                         2.0.1-2                     alpm
 libp11-kit                                     0.26.6-1                    alpm         
 libpsl                                         0.21.5-2                    alpm         
 libsasl                                        2.1.28-6                    alpm         
-libseccomp                                     2.6.0-1                     alpm         
+libseccomp                                     2.6.2-1                     alpm         
 libsecret                                      0.21.8.2-1                  alpm         
 libssh2                                        1.11.1-8                    alpm         
 libstdc++                                      16.2.1+r23+gd564253eb6c8-1  alpm         
@@ -115,11 +115,11 @@ stdlib                                         go1.26.1-X:nodwarf5         go-mo
 systemd                                        262.2-1                     alpm         
 systemd-libs                                   262.2-1                     alpm         
 tar                                            1.35-5                      alpm         
-tpm2-tss                                       4.2.2s-1                    alpm         
+tpm2-tss                                       4.2.2s-2                    alpm         
 tzdata                                         2026f-1                     alpm         
 util-linux                                     2.42.4-1                    alpm         
 util-linux-libs                                2.42.4-1                    alpm         
 which                                          2.25-1                      alpm         
 xz                                             5.8.4-1                     alpm         
 zlib                                           1:1.4-1                     alpm         
-zstd                                           1.5.7-3                     alpm         
+zstd                                           1.6.0-1                     alpm         
